@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Support</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Header-Icons-Tooltip-Support-Copy" transform="translate(-373.000000, -20.000000)" stroke="#1C2437">
+            <g id="Header" transform="translate(-82.000000, 0.000000)">
+                <g id="Support" transform="translate(456.000000, 21.000000)">
+                    <g>
+                        <circle id="Oval" cx="19" cy="19" r="19"></circle>
+                        <path d="M13.0625,15.4248333 C13.057915,12.3098138 15.4602202,9.72026062 18.5668296,9.49146814 C21.673439,9.26267565 24.4291932,11.4723532 24.8810062,14.5544357 C25.3328193,17.6365182 23.3272329,20.544177 20.2856667,21.2166667 C19.5460411,21.3625895 19.0096992,22.0065962 19,22.7604167 L19,24.5226667" id="Shape" stroke-width="1.59000003"></path>
+                        <path d="M19,28.4873333 C19.2186127,28.4873333 19.3958333,28.664554 19.3958333,28.8831667 C19.3958333,29.1017794 19.2186127,29.279 19,29.279 C18.7813873,29.279 18.6041667,29.1017794 18.6041667,28.8831667 C18.6041667,28.664554 18.7813873,28.4873333 19,28.4873333" id="Shape" stroke-width="1.59000003"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

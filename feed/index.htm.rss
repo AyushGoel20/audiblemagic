@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Audible Magic</title>
+	<atom:link href="https://www.audiblemagic.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.audiblemagic.com</link>
+	<description>Automatic Content Recognition (ACR) &#38; Rights Management Solutions</description>
+	<lastBuildDate>Fri, 19 Mar 2021 15:29:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.audiblemagic.com/wp-content/uploads/2019/08/cropped-favicon-32x32.png</url>
+	<title>Audible Magic</title>
+	<link>https://www.audiblemagic.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Are EU Member States Making Progress with Article 17?</title>
+		<link>https://www.audiblemagic.com/2021/03/18/are-eu-member-states-making-progress-with-article-17/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Thu, 18 Mar 2021 17:54:22 +0000</pubDate>
+				<category><![CDATA[Blog Posts]]></category>
+		<category><![CDATA[ACR]]></category>
+		<category><![CDATA[Article 17]]></category>
+		<category><![CDATA[Automatic Content Recognition]]></category>
+		<category><![CDATA[EU Copyright Directive]]></category>
+		<guid isPermaLink="false">https://www.audiblemagic.com/?p=6496</guid>
+
+					<description><![CDATA[<p>With the June 7th, 2021 deadline looming for EU Member States to implement the 2019 EU Copyright Directive, many wonder [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/03/18/are-eu-member-states-making-progress-with-article-17/">Are EU Member States Making Progress with Article 17?</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>With the June 7th, 2021 deadline looming for EU Member States to implement the <a href="https://www.europarl.europa.eu/doceo/document/A-8-2018-0245-AM-271-271_EN.pdf">2019 EU Copyright Directive</a>, many wonder about the timing of individual country transpositions or if there will be delays. The transposition is a process whereby each member state passes legislation to give force to the directive in that country. Although Covid-19 slowed progress, all major EU countries are making headway in their transposition process and are expected to meet the June deadline.  The one significant exception is the UK, no longer part of the EU because of Brexit. The government has said it will not be implementing the directive.</p>
+<p>To ensure the benefit of the new safe harbor provisions, online content-sharing services that make copyright works, such as music, publicly available in user-generated content will need to understand how and when the law is transposed by each member state. For example, The Netherlands has completed the transposition of the law and has specified that it will go into effect as of June 7, 2021.</p>
+<p>We are watching this process carefully since some countries have considered adopting additional or different implementation measures in their transpositions. This could cause service providers to have a requirement to adjust their plans for each country they stream content to.</p>
+<p>To learn more about how Article 17 will impact your business, we have included more resources at the end of this summary.</p>
+<p>&nbsp;</p>
+<h6>The Netherlands</h6>
+<p>The Netherlands became the first EU member state to implement the directive on December 28th. Their implementation is mostly a literal transposition of the directive’s provisions, but it also includes a provision that allows the Ministry of Justice to provide further rules on the application of the Article 17 implementation.</p>
+<p>&nbsp;</p>
+<h6>Germany</h6>
+<p>On February 3rd, Germany’s government approved their latest proposal, which was revised in response to feedback from rightsholders and platforms. This draft states that without a corresponding license, platforms must block uploaded copyrighted content; however, short excerpts are presumed permitted by law and may not be blocked by automatic means. The law is scheduled to be debated in the legislature in March.</p>
+<p>&nbsp;</p>
+<h6>Austria</h6>
+<p>The Austrian Ministry of Justice completed the first proposal in December, which borrows elements from previous German proposals, including a direct remuneration right for creators, users’ ability to pre-flag uploads as legitimate, and a threshold that protects minor uses from automated blocking.</p>
+<p>&nbsp;</p>
+<h6>France</h6>
+<p>France passed an authorization law on November 18th, allowing them to implement provisions of the directive by administrative decree. This law specified that the decree implementing Article 17 must be issued 6 months from its passing, which would be April 18th. France&#8217;s draft law proposes a literal adaptation of Article 17.</p>
+<p>&nbsp;</p>
+<h6>Finland</h6>
+<p>Finland’s proposal relies on the mandatory use of ACR (Automated Content Recognition) technology by platforms. Rightsholders would be required to review infringing uploads before issuing a blocking request, and users would be able to challenge blocks through an independent alternative dispute resolution mechanism.</p>
+<p>&nbsp;</p>
+<h6><strong>Denmark</strong></h6>
+<p>Denmark announced that it would implement Articles 15 and 17 during the parliamentary year and the rest of the directive after the summer. Like the Netherlands, the Denmark transposition is a literal adaptation of the EU Copyright Directive.</p>
+<p>&nbsp;</p>
+<p>The UK Copyright and Creative Economy Centre, based at the University of Glasgow, maintains possibly the most comprehensive and up-to-date resource on national implementation at <a href="https://www.create.ac.uk/cdsm-implementation-resource-page/">https://www.create.ac.uk/cdsm-implementation-resource-page/</a>.</p>
+<p>&nbsp;</p>
+<p><span data-contrast="none">Check back for more updates on Article 17 in the coming months. The following resources will help you understand how Article 17 may impact your business.  </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<ul>
+<li data-leveltext="" data-font="Symbol" data-listid="2" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1"><span data-contrast="none">What is </span><a href="https://www.audiblemagic.com/article-17/"><span data-contrast="none">Article 17</span></a><span data-contrast="none">?  </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559685&quot;:1080,&quot;335559740&quot;:240}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="2" aria-setsize="-1" data-aria-posinset="2" data-aria-level="1"><span data-contrast="none">Take our </span><a href="https://www.audiblemagic.com/article-17-assessment-survey/"><span data-contrast="none">A17 assessment</span></a><span data-contrast="none"> to see how Article 17 affects your business.  </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559685&quot;:1080,&quot;335559740&quot;:240}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="2" aria-setsize="-1" data-aria-posinset="3" data-aria-level="1"><span data-contrast="none">Understand how </span><a href="https://www.audiblemagic.com/2019/12/23/how-will-article-17-impact-small-social-networks-outside-the-eu/"><span data-contrast="none">small social networks</span></a><span data-contrast="none"> are impacted by the copyright directive. </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559685&quot;:1080,&quot;335559740&quot;:240}"> </span></li>
+</ul>
+<p>&nbsp;</p>
+<p><em>This blog is issued for informational purposes only and is not intended to be construed or used as general legal advice. Please contact the author(s) or your Audible Magic Corporation contact if you have questions regarding the currency of this information.</em></p>
+<p>&nbsp;</p>
+<p><em>All information is accurate as of March 8, 2021</em></p>
+<p>&nbsp;</p>
+<p><strong>Sources </strong></p>
+<p><a href="https://www.twobirds.com/en/in-focus/copyright-directive"><span data-contrast="none">https://www.twobirds.com/en/in-focus/copyright-directive</span></a><span data-contrast="none"> </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<p><a href="http://www.xinhuanet.com/english/2021-02/04/c_139719400.htm"><span data-contrast="none">http://www.xinhuanet.com/english/2021-02/04/c_139719400.htm</span></a><span data-contrast="none"> </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<p><a href="https://www.communia-association.org/2021/01/07/dsm-directive-implementation-update-more-proposals-to-protect-users-rights/"><span data-contrast="none">https://www.communia-association.org/2021/01/07/dsm-directive-implementation-update-more-proposals-to-protect-users-rights/</span></a><span data-contrast="none"> </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<p><a href="https://www.communia-association.org/2020/12/07/dsm-directive-implementation-update-six-months-go-no-end-sight/"><span data-contrast="none">https://www.communia-association.org/2020/12/07/dsm-directive-implementation-update-six-months-go-no-end-sight/</span></a><span data-contrast="none"> </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<p><a href="http://copyrightblog.kluweriplaw.com/2021/01/21/divergence-instead-of-guidance-the-article-17-implementation-discussion-in-2020-part-1/"><span data-contrast="none">http://copyrightblog.kluweriplaw.com/2021/01/21/divergence-instead-of-guidance-the-article-17-implementation-discussion-in-2020-part-1/</span></a><span data-contrast="none">  </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/03/18/are-eu-member-states-making-progress-with-article-17/">Are EU Member States Making Progress with Article 17?</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Takwene Protects Artists’ Rights and Manages Their Catalog with Audible Magic’s RightsRx™ Plus</title>
+		<link>https://www.audiblemagic.com/2021/02/26/takwene-protects-artists-rights-and-manages-their-catalog-with-audible-magics-rightsrx-plus/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Fri, 26 Feb 2021 18:02:12 +0000</pubDate>
+				<category><![CDATA[Blog Posts]]></category>
+		<category><![CDATA[Success Stories]]></category>
+		<category><![CDATA[ACR]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[Automatic Content Recognition]]></category>
+		<category><![CDATA[rights management]]></category>
+		<category><![CDATA[RightsRx Plus]]></category>
+		<category><![CDATA[Takwene]]></category>
+		<guid isPermaLink="false">https://www.audiblemagic.com/?p=6468</guid>
+
+					<description><![CDATA[<p>The award-winning MCN and distributor supports creators from production to rights protection. &#160; The company&#8217;s name, Takwene, the Arabic word for “create,” reflects its commitment to providing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/02/26/takwene-protects-artists-rights-and-manages-their-catalog-with-audible-magics-rightsrx-plus/">Takwene Protects Artists’ Rights and Manages Their Catalog with Audible Magic’s RightsRx™ Plus</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h4><a href="https://www.takwene.com/"><img class="wp-image-6480 alignleft" src="https://www.audiblemagic.com/wp-content/uploads/2021/02/Takwene-.png" alt="" width="127" height="127" srcset="https://www.audiblemagic.com/wp-content/uploads/2021/02/Takwene-.png 480w, https://www.audiblemagic.com/wp-content/uploads/2021/02/Takwene--300x300.png 300w, https://www.audiblemagic.com/wp-content/uploads/2021/02/Takwene--150x150.png 150w" sizes="(max-width: 127px) 100vw, 127px" /></a></h4>
+<h4></h4>
+<h4>The award-winning MCN and distributor supports</h4>
+<h4>creators from production to rights protection.</h4>
+<p>&nbsp;</p>
+<p><span data-contrast="auto">The company&#8217;s name, Takwene, the Arabic word for </span><span data-contrast="auto">“</span><span data-contrast="auto">create,</span><span data-contrast="auto">”</span><span data-contrast="auto"> reflects its commitment to providing comprehensive support for artists, often musicians, to produce</span><span data-contrast="auto"> </span><span data-contrast="auto">and succeed online.</span><span data-contrast="auto"> </span><span data-contrast="auto">The </span><span data-contrast="auto">M</span><span data-contrast="auto">iddle </span><span data-contrast="auto">E</span><span data-contrast="auto">astern focused multi-channel network</span><span data-contrast="auto"> </span><span data-contrast="auto">(MCN) </span><span data-contrast="auto">and distributor</span><span data-contrast="auto"> launched in 2011 just as the Arab Spring began. </span><span data-contrast="auto"> </span><span data-contrast="auto">Undaunted</span><span data-contrast="auto"> by the crisis</span><span data-contrast="auto">,</span><span data-contrast="auto"> </span><span data-contrast="auto">the</span><span data-contrast="auto"> Takwene development</span><span data-contrast="auto"> team </span><span data-contrast="auto">focused on</span><span data-contrast="auto"> </span><span data-contrast="auto">buil</span><span data-contrast="auto">ding </span><span data-contrast="auto">their music distribution platform. </span><span data-contrast="auto">The investment paid off as</span><span data-contrast="auto"> they became the</span><span data-contrast="auto"> first and </span><span data-contrast="auto">only YouTube </span><span data-contrast="auto">Certified P</span><span data-contrast="auto">artner in the </span><span data-contrast="auto">region</span><span data-contrast="auto"> shortly thereafter</span><span data-contrast="auto">. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<h6></h6>
+<h6><b><span data-contrast="auto">Continued growth drives the search for Automated Content</span></b><b><span data-contrast="auto"> Recognition</span></b><b><span data-contrast="auto"> Solutions</span></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></h6>
+<p><span data-contrast="auto">In </span><span data-contrast="auto">2015</span><span data-contrast="auto">, </span><span data-contrast="auto">Takwene </span><span data-contrast="auto">began registering </span><span data-contrast="auto">their audio and video with Audible Magic to protect against unauthorized use on UGC hosting platforms. </span><span data-contrast="auto"> </span><span data-contrast="auto">In 2019, Takwene became the biggest music library in the Middle East</span><span data-contrast="auto">,</span><span data-contrast="auto"> hosting over </span><span data-contrast="auto">100,000</span><span data-contrast="auto"> audio and video assets</span><span data-contrast="auto">,</span><span data-contrast="auto"> including Bedouin</span><span data-contrast="auto"> </span><span data-contrast="auto">and </span><span data-contrast="auto">Libyan </span><span data-contrast="auto">music</span><span data-contrast="auto">. T</span><span data-contrast="auto">he company</span><span data-contrast="auto"> was</span><span data-contrast="auto"> also</span><span data-contrast="auto"> hosting a </span><span data-contrast="auto">wide variety of content from creators in the U</span><span data-contrast="auto">nited </span><span data-contrast="auto">S</span><span data-contrast="auto">tates</span><span data-contrast="auto"> and the E</span><span data-contrast="auto">uropean </span><span data-contrast="auto">U</span><span data-contrast="auto">nion</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">The growing company</span><span data-contrast="auto"> </span><span data-contrast="auto">needed</span><span data-contrast="auto"> a solution to prevent uploads of</span><span data-contrast="auto"> unauthorized</span><span data-contrast="auto"> copyrighted material </span><span data-contrast="auto">to their digital service providers</span><span data-contrast="auto"> (DSP)</span><span data-contrast="auto"> </span><span data-contrast="auto">and </span><span data-contrast="auto">to </span><span data-contrast="auto">proactively</span><span data-contrast="auto"> manage </span><span data-contrast="auto">ownership </span><span data-contrast="auto">conflicts </span><span data-contrast="auto">in their</span><span data-contrast="auto"> </span><span data-contrast="auto">international</span><span data-contrast="auto"> </span><span data-contrast="auto">catalog</span><span data-contrast="auto">. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<h6></h6>
+<h6><b><span data-contrast="auto">Accuracy</span></b><b><span data-contrast="auto">, </span></b><b><span data-contrast="auto">s</span></b><b><span data-contrast="auto">calability,</span></b><b><span data-contrast="auto"> and an </span></b><b><span data-contrast="auto">i</span></b><b><span data-contrast="auto">nternational </span></b><b><span data-contrast="auto">r</span></b><b><span data-contrast="auto">egistry</span></b><b><span data-contrast="auto"> were key</span></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></h6>
+<p><span data-contrast="auto">Because of the v</span><span data-contrast="auto">ariety of music and </span><span data-contrast="auto">the </span><span data-contrast="auto">scope of their growing catalog, </span><span data-contrast="auto">Takwene </span><span data-contrast="auto">needed </span><span data-contrast="auto">an </span><span data-contrast="auto">automatic content recognition (ACR) </span><span data-contrast="auto">vendor</span><span data-contrast="auto"> </span><span data-contrast="auto">that </span><span data-contrast="auto">had</span><span data-contrast="auto"> a</span><span data-contrast="auto">n</span><span data-contrast="auto"> </span><span data-contrast="auto">extensive </span><span data-contrast="auto">international music registry</span><span data-contrast="auto"> </span><span data-contrast="auto">combined with a highly accurate and scalable service</span><span data-contrast="auto"> </span><span data-contrast="auto">to minimize costly human intervention. </span><span data-contrast="auto">Although they looked at several ACR providers, Audible Magic’s RightsRx Plus service provided the best match for their requirements.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<h6></h6>
+<h6><b><span data-contrast="auto">Prevent </span></b><b><span data-contrast="auto">the </span></b><b><span data-contrast="auto">upload</span></b><b><span data-contrast="auto"> of</span></b><b><span data-contrast="auto"> </span></b><b><span data-contrast="auto">unauthorized copyrighted content and </span></b><b><span data-contrast="auto">i</span></b><b><span data-contrast="auto">dentify catalog conflicts with Right</span></b><b><span data-contrast="auto">s</span></b><b><span data-contrast="auto">Rx Plus</span></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></h6>
+<p><span data-contrast="auto">RightsRx Plus compares a submitted track against an extensive music registry and responds with applicable ownership information to help maintain a catalog free of unauthorized copyrighted content and conflicts. </span><span data-contrast="auto"> </span><span data-contrast="auto">This quick </span><span data-contrast="auto">scan</span><span data-contrast="auto"> </span><span data-contrast="auto">helps</span><span data-contrast="auto"> </span><span data-contrast="auto">distributors maintain </span><span data-contrast="auto">their status with DSPs</span><span data-contrast="auto"> and resolve ownership issues with other rightsholders</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">“We needed a service that would minimize human intervention, which can be costly. The solution had to be highly accurate and scalable for our expanding business, and accommodate the metadata complications when encoding a diverse catalog merging folkloric Bedouin, Oriental &amp; Nubian Music.” said Ayman Konna, CEO of Takwene.</span><span data-contrast="auto"> </span><span data-contrast="auto">“</span><span data-contrast="auto">Audible Magic easily fit the </span><span data-contrast="auto">requirements,</span><span data-contrast="auto"> and the team appreciated the quick integration.</span><span data-contrast="auto"> We were scanning </span><span data-contrast="auto">tracks</span><span data-contrast="auto"> within a day.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><b><span data-contrast="auto">Challenge:</span></b><b><span data-contrast="auto"> </span></b><span data-contrast="auto">Prevent copyrighted material from being upload</span><span data-contrast="auto">ed to DSPs</span><span data-contrast="auto"> as well as manage conflicts in their catalog</span><span data-contrast="auto">. Handle RTL and different </span><span data-contrast="auto">m</span><span data-contrast="auto">etadata encoding.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><b><span data-contrast="auto">Solution:</span></b><span data-contrast="auto"> </span><span data-contrast="auto">Audible Magic’s </span><span data-contrast="auto">RightsRx Plus</span><span data-contrast="auto"> </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><b><span data-contrast="auto">Key Requirements:</span></b><span data-contrast="auto">  </span><span data-contrast="auto">Extensive </span><span data-contrast="auto">i</span><span data-contrast="auto">nternational registry, </span><span data-contrast="auto">m</span><span data-contrast="auto">inimal manual intervention, </span><span data-contrast="auto">sca</span><span data-contrast="auto">la</span><span data-contrast="auto">bility</span><span data-contrast="auto">, accuracy</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/02/26/takwene-protects-artists-rights-and-manages-their-catalog-with-audible-magics-rightsrx-plus/">Takwene Protects Artists’ Rights and Manages Their Catalog with Audible Magic’s RightsRx™ Plus</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Audible Magic Surpasses 100 Million Tracks</title>
+		<link>https://www.audiblemagic.com/2021/02/23/audible-magic-surpasses-100-million-tracks/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 10:00:01 +0000</pubDate>
+				<category><![CDATA[Press Releases]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[content fulfillment]]></category>
+		<category><![CDATA[Content Identification]]></category>
+		<category><![CDATA[digital rights]]></category>
+		<category><![CDATA[MediaNet]]></category>
+		<category><![CDATA[music licensing]]></category>
+		<category><![CDATA[rights administration]]></category>
+		<guid isPermaLink="false">https://www.audiblemagic.com/?p=6452</guid>
+
+					<description><![CDATA[<p>Audible Magic the First to Surpass 100 Million Music Tracks Comprehensive rights-managed music catalog supports streaming, download, fitness, UGC, and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/02/23/audible-magic-surpasses-100-million-tracks/">Audible Magic Surpasses 100 Million Tracks</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h4>Audible Magic the First to Surpass 100 Million Music Tracks</h4>
+<h6>Comprehensive rights-managed music catalog supports streaming, download, fitness, UGC, and other branded services</h6>
+<p>Los Gatos, Calif. – Feb. 23, 2021 – Audible Magic announced their rights-managed catalog has surpassed 100 million tracks, a first in the space. This milestone gives Audible Magic the largest business-to-business rights-managed catalog available.</p>
+<p>The impressive catalog, which contains tracks from over 400,000 labels, is part of the long-established MediaNet content fulfillment and rights administration business purchased by Audible Magic in January 2021. Audible Magic is now the leading provider of content identification, licensing, media fulfillment, and rights administration services to digital music and social media platforms.</p>
+<p>The catalog is a result of close relationships with record labels and publishers built over 20+ years of successfully launching music services around the world. It also required the development of a sophisticated rights management platform to take account of the constant changes in rights ownership, and the accelerating numbers of new tracks being released. In 2020 alone, Audible Magic saw a 67% increase in new releases added to their catalog, ingesting, on average, 12,000 new albums every day. This is a massive undertaking and is unmatched in the industry.</p>
+<p>Coupled with a 100M tracks catalog, digital platforms can access a variety of Audible Magic’s turnkey music licensing solutions for a variety of services including fitness applications, short-form video, streaming, and downloads. Additionally, Audible Magic’s flexible solutions enable platforms to leverage their own licenses as well as Audible Magic’s pass-through licenses when applicable.</p>
+<p>“We are excited to offer an exhaustive music catalog that provides tracks from major and indie labels across an array of territories throughout the globe,” said Vance Ikezoye, chief executive officer of Audible Magic. “Coupled with our services, our customers can focus on creating incredible user experiences, while we take care of the arduous task of rights administration and royalty payments.”</p>
+<p>&nbsp;</p>
+<p><strong>About Audible Magic</strong></p>
+<p>For more than 20 years, Audible Magic has innovated solutions to identify content, provide fulfillment solutions, manage rights, and monetize media. Audible Magic’s Emmy-winning automatic content recognition (ACR) technology powers billions of monthly transactions. The Silicon Valley pioneer is the trusted intermediary between major platforms and rightsholders (including labels, studios, distributors, publishers, and collectives). The company works with a wide range of platforms and rights holders, including Facebook, Twitch, SoundCloud, Dailymotion, ShareChat, Vimeo, NBC Universal, Universal Music Group, Sony Music Group, Warner Music Group, The Orchard, CDBaby, and DistroKid. For more information, visit <a href="https://www.audiblemagic.com/">https://www.audiblemagic.com/</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/02/23/audible-magic-surpasses-100-million-tracks/">Audible Magic Surpasses 100 Million Tracks</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Audible Magic Acquires SOCAN&#8217;s MediaNet &#8211; Hypebot</title>
+		<link>https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-socans-medianet-hypebot/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 21:57:23 +0000</pubDate>
+				<category><![CDATA[News Articles]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[Hypebot]]></category>
+		<category><![CDATA[MediaNet]]></category>
+		<category><![CDATA[music licensing]]></category>
+		<category><![CDATA[rights administration]]></category>
+		<category><![CDATA[SOCAN]]></category>
+		<guid isPermaLink="false">https://www.audiblemagic.com/?p=6421</guid>
+
+					<description><![CDATA[<p>Canadian PRO SOCAN has sold its global content fulfillment and rights administration service MediaNet to Audible Magic. Read the full [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-socans-medianet-hypebot/">Audible Magic Acquires SOCAN&#8217;s MediaNet &#8211; Hypebot</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Canadian PRO SOCAN has sold its global content fulfillment and rights administration service MediaNet to Audible Magic.</p>
+<p>Read the full article by Hypebot <a href="https://www.hypebot.com/hypebot/2021/01/audible-magic-acquires-socans-medianet.html">here</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-socans-medianet-hypebot/">Audible Magic Acquires SOCAN&#8217;s MediaNet &#8211; Hypebot</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Audible Magic acquires rights administration business MediaNet from SOCAN &#8211; RightsTech</title>
+		<link>https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-rights-administration-business-medianet-from-socan-rightstech/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 19:05:25 +0000</pubDate>
+				<category><![CDATA[News Articles]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[MediaNet]]></category>
+		<category><![CDATA[music licensing]]></category>
+		<category><![CDATA[rights administration]]></category>
+		<category><![CDATA[RightsTech]]></category>
+		<category><![CDATA[SOCAN]]></category>
+		<guid isPermaLink="false">https://www.audiblemagic.com/?p=6419</guid>
+
+					<description><![CDATA[<p>SOCAN and Audible Magic have also announced they have entered into a strategic partnership with the goal to use Audible [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-rights-administration-business-medianet-from-socan-rightstech/">Audible Magic acquires rights administration business MediaNet from SOCAN &#8211; RightsTech</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>SOCAN and Audible Magic have also announced they have entered into a strategic partnership with the goal to use Audible Magic technology and services to help SOCAN improve operational accuracy and reporting to publishers and songwriters. Financial terms of the deal were not disclosed.</p>
+<p>Read the full article by RightsTech <a href="https://rightstech.com/2021/01/audible-magic-acquires-rights-administration-business-medianet-from-socan/">here</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-rights-administration-business-medianet-from-socan-rightstech/">Audible Magic acquires rights administration business MediaNet from SOCAN &#8211; RightsTech</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Audible Magic Acquires Rights Administration Business MediaNet from SOCAN &#8211; Music Business Worldwide</title>
+		<link>https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-rights-administration-business-medianet-from-socan-music-business-worldwide/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 19:04:44 +0000</pubDate>
+				<category><![CDATA[News Articles]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[MediaNet]]></category>
+		<category><![CDATA[Music Business Worldwide]]></category>
+		<category><![CDATA[music licensing]]></category>
+		<category><![CDATA[rights administration]]></category>
+		<category><![CDATA[SOCAN]]></category>
+		<guid isPermaLink="false">https://www.audiblemagic.com/?p=6417</guid>
+
+					<description><![CDATA[<p>Digital content identification, licensing, and monetization platform Audible Magic is acquiring content fulfillment and rights administration business MediaNet from Canadian [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-rights-administration-business-medianet-from-socan-music-business-worldwide/">Audible Magic Acquires Rights Administration Business MediaNet from SOCAN &#8211; Music Business Worldwide</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Digital content identification, licensing, and monetization platform Audible Magic is acquiring content fulfillment and rights administration business MediaNet from Canadian performing rights organization, SOCAN.</p>
+<p>SOCAN and Audible Magic have also announced they have entered into a strategic partnership with the goal to use Audible Magic technology and services to help SOCAN improve operational accuracy and reporting to publishers and songwriters.</p>
+<p>Read the full article by Music Business Worldwide <a href="https://www.musicbusinessworldwide.com/audible-magic-acquires-rights-administration-business-medianet-from-socan/">here</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/12/audible-magic-acquires-rights-administration-business-medianet-from-socan-music-business-worldwide/">Audible Magic Acquires Rights Administration Business MediaNet from SOCAN &#8211; Music Business Worldwide</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Frequently Asked Questions regarding Audible Magic’s Acquisition of MediaNet’s Business</title>
+		<link>https://www.audiblemagic.com/2021/01/11/frequently-asked-questions-regarding-audible-magics-acquisition-of-medianets-business/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 10:00:32 +0000</pubDate>
+				<category><![CDATA[Blog Posts]]></category>
+		<category><![CDATA[ACR]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[Automatic Content Recognition]]></category>
+		<category><![CDATA[MediaNet]]></category>
+		<category><![CDATA[music licensing]]></category>
+		<category><![CDATA[SOCAN]]></category>
+		<category><![CDATA[UGC]]></category>
+		<guid isPermaLink="false">https://www.audiblemagic.com/?p=6345</guid>
+
+					<description><![CDATA[<p>On Monday, January 11th, 2021, Audible Magic and SOCAN announced that the companies had entered into an agreement to transfer [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/11/frequently-asked-questions-regarding-audible-magics-acquisition-of-medianets-business/">Frequently Asked Questions regarding Audible Magic’s Acquisition of MediaNet’s Business</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On Monday, January 11th, 2021, Audible Magic and SOCAN announced that the companies had entered into an <a href="https://www.audiblemagic.com/2021/01/11/audible-magic-acquires-medianets-business-from-socan-integrating-ugc-premium-music-solutions/" target="_blank" rel="noopener noreferrer">agreement</a> to transfer SOCAN’s content fulfillment and rights administration business to Audible Magic.</p>
+<p>Understandably, many content partners and customers of both MediaNet and Audible Magic have questions about what this means to their day-to-day interactions and services they may have been receiving from each company. We hope that the information below will provide some guidance, but always, feel free to reach out to us for further information. Both teams remain fully committed to our content partners and customers.</p>
+<p><strong>When does this acquisition go into effect?</strong></p>
+<p><em>The acquisition will be effective as of January 6, 2021.</em></p>
+<p><strong>Why is Audible Magic making this acquisition?</strong></p>
+<p><em>This acquisition enables Audible Magic to offer a unique one-stop-shop solution for digital service providers and UGC hosting platforms looking to manage copyrighted content. Audible Magic will be able to offer licensing, rights management, and royalty administration as well as industry-leading content identification services.</em></p>
+<p><strong>What are the benefits to Audible Magic customers?</strong></p>
+<p><em>Current Audible Magic customers will now have access to a full suite of content management services including licensing, rights management, royalty administration, and media fulfillment.</em></p>
+<p><strong>What are the benefits to MediaNet customers?</strong></p>
+<p><em>MediaNet customers will gain access to the gold standard in content identification services so important for accurate attribution of copyright, licensing, rights administration, and reporting.</em></p>
+<p><strong>Will there be any changes to the services provided to MediaNet or Audible Magic customers?</strong></p>
+<p><em>Both Audible Magic and the MediaNet teams remain committed to all existing customers with the same level of support.</em></p>
+<p><strong>Are there changes to my contacts at MediaNet or Audible Magic for business or technical issues?</strong></p>
+<p><em>We do not intend to change your primary business contacts currently. If you do have any questions, please contact us at helpdesk@audiblemagic.com</em></p>
+<p><strong>Will there be changes in how content partners should deliver content feeds?</strong></p>
+<p><em>There will be no immediate changes in how a content partner sends feeds to either Audible Magic or MediaNet. However, we will be looking into options to make the process easier for our content partners moving forward.</em></p>
+<p><strong>Will there be any changes to the processing of royalty payments or accounting reports?</strong></p>
+<p><em>The processes currently in place will continue as before the acquisition. As the two companies merge, we will be looking for opportunities to provide improved processes to benefit our content partners and customers. If you have any questions, please contact us at helpdesk@audiblemagic.com.</em></p>
+<p><strong>Are there changes planned to MediaNet customer billing and invoicing for services?</strong></p>
+<p><em>Yes, invoices will be issued with an Audible Magic logo starting in January. You will have access to your invoices and statements via an online portal. You will receive a link via email to set up your account within the portal, as well as a user guide for questions and assistance. Remittances should be made per the instructions on the invoice.</em></p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/11/frequently-asked-questions-regarding-audible-magics-acquisition-of-medianets-business/">Frequently Asked Questions regarding Audible Magic’s Acquisition of MediaNet’s Business</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Audible Magic Acquires MediaNet’s Business from SOCAN, Integrating UGC &#038; Premium Music Solutions</title>
+		<link>https://www.audiblemagic.com/2021/01/11/audible-magic-acquires-medianets-business-from-socan-integrating-ugc-premium-music-solutions/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 10:00:09 +0000</pubDate>
+				<category><![CDATA[Press Releases]]></category>
+		<category><![CDATA[acquisition]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[copyright compliance]]></category>
+		<category><![CDATA[MediaNet]]></category>
+		<category><![CDATA[music licensing]]></category>
+		<category><![CDATA[SOCAN]]></category>
+		<category><![CDATA[UGC]]></category>
+		<guid isPermaLink="false">https://www.audiblemagic.com/?p=6331</guid>
+
+					<description><![CDATA[<p> Audible Magic to offer “one-stop&#8211;shop” for music licensing and copyright compliance   Los Gatos, Calif. – Jan. 11, 2021 – Audible Magic and SOCAN announced the companies have entered into [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/11/audible-magic-acquires-medianets-business-from-socan-integrating-ugc-premium-music-solutions/">Audible Magic Acquires MediaNet’s Business from SOCAN, Integrating UGC &#038; Premium Music Solutions</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h3><b></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span><i><span data-contrast="auto">Audible Magic</span></i><i><span data-contrast="auto"> </span></i><i><span data-contrast="auto">to</span></i><i><span data-contrast="auto"> </span></i><i><span data-contrast="auto">offer</span></i><i><span data-contrast="auto"> “one-stop</span></i><i><span data-contrast="auto">&#8211;</span></i><i><span data-contrast="auto">shop”</span></i><i><span data-contrast="auto"> fo</span></i><i><span data-contrast="auto">r</span></i><i><span data-contrast="auto"> </span></i><i><span data-contrast="auto">music </span></i><i><span data-contrast="auto">licensing</span></i><i><span data-contrast="auto"> and </span></i><i><span data-contrast="auto">copyright</span></i><i><span data-contrast="auto"> compliance</span></i><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></h3>
+<p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>Los Gatos, Calif. – Jan. 11, 2021 – <a href="https://www.audiblemagic.com/">Audible Magic</a> and <a href="http://www.socan.com/">SOCAN</a> announced the companies have entered into an agreement to transfer SOCAN’s content fulfillment and rights administration business of MediaNet to Audible Magic. Audible Magic is the leading provider of identification and compliance solutions to social networks hosting user-generated content (UGC). SOCAN is the Canadian performing rights organization. MediaNet has a long history of delivering turnkey white label digital music solutions for Internet radio, subscription music services, on-demand streaming, and support for fitness and gaming applications. With this acquisition, Audible Magic can now provide digital platforms a comprehensive range of services to enable and manage the use of music.</p>
+<p>Audible Magic provides solutions for music licensing, content identification, and rights management to social media platforms. This acquisition extends its capabilities to deliver bespoke licensing from hundreds of labels and publishers, media files for more than 92 million tracks, full rights management, and royalty and payment administration. This portfolio of services will enable social platforms to more easily exploit the opportunity for both music in UGC and premium content. According to a recent MIDiA Research report, <em>The Rising Power of UGC</em>, there is a projected $6 billion opportunity in the appropriate use of audio and video for streaming of music in UGC alone.</p>
+<p>“Rightsholders and platforms will both benefit from our combined solution and will reduce the time and complexity of managing and paying for the use of music,” said Vance Ikezoye, Audible Magic chief executive officer. “We see significant upside in enabling incremental revenues for the music ecosystem.”</p>
+<p>SOCAN and Audible Magic also announced they have entered into a strategic partnership with the goal to use Audible Magic technology and services to help SOCAN improve operational accuracy and reporting to publishers and songwriters.</p>
+<p>“The acquisition of the MediaNet services by Audible Magic creates long-term benefits for SOCAN’s members and clients,” said Jennifer Brown, Interim CEO of SOCAN. “Audible Magic is a knowledgeable and skilled company and we’re looking forward to working together to improve the accuracy of reporting to publishers and songwriters.”</p>
+<p>SOCAN acquired Seattle-based MediaNet in 2016. By legal agreement, terms of Audible Magic&#8217;s acquisition are confidential.</p>
+<p>&nbsp;</p>
+<p><strong>About Audible Magic</strong> <em> </em></p>
+<p>For more than 20 years, Audible Magic has innovated solutions to identify content, manage rights, and monetize media. Audible Magic’s Emmy-winning automatic content recognition (ACR) technology powers billions of monthly transactions. The Silicon Valley pioneer is the trusted intermediary between major platforms and rightsholders (including labels, studios, distributors, publishers, and collectives). The company works with a wide range of platforms and rights holders, including Facebook, Twitch, SoundCloud, Dailymotion, ShareChat, Vimeo, NBC Universal, Universal Music Group, Sony Music Group, Warner Music Group, The Orchard, CDBaby, and Distrokid.  For more information, visit <a href="https://www.audiblemagic.com/">https://www.audiblemagic.com/</a>.<em> </em></p>
+<p><strong>About SOCAN</strong></p>
+<p>SOCAN is a rights management organization that connects more than four-million music creators worldwide and more than a quarter-million businesses and individuals in Canada. More than 160,000 songwriters, composers, music publishers, and visual artists are its direct members, and more than 100,000 organizations are Licensed To Play music across Canada. With a concerted use of progressive technology and unique data as well as a commitment to lead the global transformation of rights management, SOCAN is dedicated to upholding the fundamental truths that music and visual arts have value and creators and publishers deserve fair compensation for their work. For more information: <a href="https://www.socan.com">www.socan.com</a>.</p>
+<p><strong>Contact:</strong></p>
+<p>Adriana Saldaña</p>
+<p>Sterling Communications for Audible Magic</p>
+<p><a href="mailto:audiblemagic@sterlingpr.com">audiblemagic@sterlingpr.com</a></p>
+<p>+1 408-395-5500</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2021/01/11/audible-magic-acquires-medianets-business-from-socan-integrating-ugc-premium-music-solutions/">Audible Magic Acquires MediaNet’s Business from SOCAN, Integrating UGC &#038; Premium Music Solutions</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EMS and Audible Magic Tackle Industry-Wide Issue of Verifying Music Rights Ownership</title>
+		<link>https://www.audiblemagic.com/2020/11/17/ems-and-audible-magic-tackle-industry-wide-issue-of-verifying-music-rights-ownership/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 21:35:23 +0000</pubDate>
+				<category><![CDATA[Press Releases]]></category>
+		<category><![CDATA[ACR]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[Automatic Content Recognition]]></category>
+		<category><![CDATA[EMS]]></category>
+		<category><![CDATA[Encoding Management Service]]></category>
+		<category><![CDATA[music distribution]]></category>
+		<category><![CDATA[music recognition]]></category>
+		<category><![CDATA[RightsRx]]></category>
+		<guid isPermaLink="false">http://audiblemagic.flywheelstaging.com/?p=6287</guid>
+
+					<description><![CDATA[<p>Audible Magic’s RightsRx enables EMS to proactively protect artists from fraudulent ownership claims Los Gatos, Calif. – Nov. 17, 2020 – The  Encoding Management Service (EMS), a technology [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2020/11/17/ems-and-audible-magic-tackle-industry-wide-issue-of-verifying-music-rights-ownership/">EMS and Audible Magic Tackle Industry-Wide Issue of Verifying Music Rights Ownership</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h5><a href="https://www.audiblemagic.com/wp-content/uploads/2020/11/EMS-Logo.png"><img class="alignnone wp-image-6314" src="https://www.audiblemagic.com/wp-content/uploads/2020/11/EMS-Logo.png" alt="" width="325" height="71" /></a></h5>
+<h5>Audible Magic’s RightsRx enables EMS to proactively protect artists from fraudulent ownership claims</h5>
+<p><span data-contrast="auto">Los Gatos, Calif. – </span><span data-contrast="auto">Nov</span><span data-contrast="auto">.</span><span data-contrast="auto"> </span><span data-contrast="auto">17, 2020</span><span data-contrast="auto"> –</span><span data-contrast="auto"> </span><span data-contrast="auto">The  </span><a href="https://www.media-ems.com/de/"><b><span data-contrast="auto">Encoding Management Service </span></b><b><span data-contrast="auto">(EMS)</span></b></a><span data-contrast="auto">, </span><span data-contrast="auto">a technology service provider</span><span data-contrast="auto"> for digital</span><span data-contrast="auto"> music, audiobooks and eBooks</span><span data-contrast="auto">, announced it has partner</span><span data-contrast="auto">ed</span><span data-contrast="auto"> with Audible Magic, </span><span data-contrast="none">the </span><span data-contrast="auto">gold standard for content identification and </span><span data-contrast="none">leading provider of </span><span data-contrast="none">rights management and </span><span data-contrast="none">a</span><span data-contrast="auto">utomatic content recognition (ACR) solutions</span><span data-contrast="auto">. </span><span data-contrast="auto">EMS is using </span><span data-contrast="auto">Audible Magic’s </span><span data-contrast="auto">RightsRx<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> to </span><span data-contrast="auto">prevent</span><span data-contrast="auto"> an industry-wide </span><span data-contrast="auto">concern</span><span data-contrast="auto"> of </span><span data-contrast="auto">fraudulent </span><span data-contrast="auto">ownership claims</span><span data-contrast="auto"> by bad actor</span><span data-contrast="auto">s, attempting to steal revenues from the legitimate artists and rightsholders.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-contrast="auto">“There’s no question </span><span data-contrast="auto">that </span><span data-contrast="auto">Audible Magic</span><span data-contrast="auto"> is the partner of choice to help strengthen our rights management procedures, given their</span><span data-contrast="auto"> industry standard</span><span data-contrast="auto"> trusted and proven technology</span><span data-contrast="auto">,” </span><span data-contrast="auto">said</span><span data-contrast="auto"> </span><span data-contrast="auto">Chris Bornefeld-Ettmann, </span><span data-contrast="auto">EMS m</span><span data-contrast="auto">anaging </span><span data-contrast="auto">d</span><span data-contrast="auto">irector</span><span data-contrast="auto">. “We’re thrilled at how easily and quickly we implemented RightsRx into our existing workflow.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-contrast="auto">Audible Magic’s RightsRx</span><span data-contrast="auto"> enables EMS to</span><span data-contrast="auto"> resolve </span><span data-contrast="auto">ownership conflict claims</span><span data-contrast="auto"> prior to upload by</span><span data-contrast="auto"> identif</span><span data-contrast="auto">ying</span><span data-contrast="auto"> fraudulent submission</span><span data-contrast="auto">s</span><span data-contrast="auto">, as well as</span><span data-contrast="auto"> catalog conflicts when artists submit through multiple distributors.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-contrast="auto">“EMS is a major industry player and their effort underlines the continued trend of distributors proactively managing their catalogs to prevent unauthorized music from entering the </span><span data-contrast="auto">digital music ecosystem</span><span data-contrast="auto">,” said Vance Ikezoye, president and </span><span data-contrast="auto">chief executive officer at Audible Magic. “</span><span data-contrast="auto">W</span><span data-contrast="auto">e’re the best solution in the </span><span data-contrast="auto">industry</span><span data-contrast="auto"> to ensure distributors can keep their catalogs clean from </span><span data-contrast="auto">unauthorized</span><span data-contrast="auto"> content</span><span data-contrast="auto">.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-contrast="auto">Every month, Audible Magic searches billions of files looking for copyright content registered by over 140,000 record labels and music publishers. Its comprehensive reference registry contains tens of millions of registered works representing music from over 150 territories, with hundreds of thousands of new tracks added each month. Search results operate on files as short as five seconds and typically complete in one second or less, with virtually zero false positives.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-contrast="auto">For additional information, visit </span><a href="https://www.audiblemagic.com/rightsrx/"><span data-contrast="none">https://www.audiblemagic.com/rightsrx/</span></a><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><b><span data-contrast="auto">About Audible Magic</span></b><span data-contrast="auto"> </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-contrast="auto">For more than 20 years, Audible Magic has innovated solutions to identify content, manage rights, and monetize media. Audible Magic’s Emmy-winning automatic content recognition (ACR) technology powers billions of transactions monthly. The Silicon Valley pioneer is the trusted intermediary among rightsholders (including labels, studios, distributors, publishers, and collectives) and major platforms. </span><span data-contrast="auto">For more information, visit </span><a href="https://www.audiblemagic.com/"><span data-contrast="none">https://www.audiblemagic.com/</span></a><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><b><span data-contrast="auto">About</span></b><b><span data-contrast="auto"> EM</span></b><b><span data-contrast="auto">S</span></b><b><span data-contrast="auto"> </span></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-contrast="auto">The </span><b><span data-contrast="auto">Encoding Management Service &#8211; EMS GmbH</span></b><span data-contrast="auto"> is a technology service provider for the digital enter</span><span data-contrast="auto">t</span><span data-contrast="auto">ainment industry. For more than 10 years now, </span><b><span data-contrast="auto">EMS’</span></b><span data-contrast="auto"> logistical solutions for digital contents enable fast and secure ripping, encoding and delivery of audio, video and eBook data to online retailers, aggregators and other services worldwide. </span><b><span data-contrast="auto">EMS</span></b><span data-contrast="auto"> is one of Spotify’s recommended Delivery Platforms and listed </span><span data-contrast="auto">Encoding House with Apple. </span><b><span data-contrast="auto">EMS</span></b><b><span data-contrast="auto">’</span></b><span data-contrast="auto"> clients</span><span data-contrast="auto">’</span><span data-contrast="auto"> roster includes renowned distributors such as GoodToGo, Indigo, mbassador, TBA, Tonpool Digital, wordandsound and ZEBRALUTION.</span><span data-contrast="auto"> </span><span data-contrast="auto">EMS is a member of the ZEBRALUTION Group since July 2019.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p><b><span data-contrast="auto">Contact:</span></b><br />
+<span data-contrast="auto">Adriana</span><span data-contrast="auto"> </span><span data-contrast="auto">Saldaña</span><br />
+<span data-contrast="auto">Sterling Communications</span><br />
+<a href="mailto:audiblemagic@sterlingpr.com"><span data-contrast="none">audiblemagic@sterlingpr.com</span><br />
+</a><span data-contrast="auto">+1 408-395-5500</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:312}"> </span></p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2020/11/17/ems-and-audible-magic-tackle-industry-wide-issue-of-verifying-music-rights-ownership/">EMS and Audible Magic Tackle Industry-Wide Issue of Verifying Music Rights Ownership</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EMS connects with Audible Magic &#8211; MusikWoche</title>
+		<link>https://www.audiblemagic.com/2020/11/17/ems-connects-with-audible-magic-musikwoche/</link>
+		
+		<dc:creator><![CDATA[Tushita Gupta]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 19:21:59 +0000</pubDate>
+				<category><![CDATA[News Articles]]></category>
+		<category><![CDATA[ACR]]></category>
+		<category><![CDATA[audible magic]]></category>
+		<category><![CDATA[content recognition]]></category>
+		<category><![CDATA[EMS]]></category>
+		<category><![CDATA[Encoding Management Service]]></category>
+		<category><![CDATA[music distribution]]></category>
+		<category><![CDATA[rights management]]></category>
+		<category><![CDATA[RightsRx]]></category>
+		<guid isPermaLink="false">http://audiblemagic.flywheelstaging.com/?p=6308</guid>
+
+					<description><![CDATA[<p>The Leverkusen-based digital service provider Encoding Management Service (EMS) will in the future rely on the collaboration with Audible Magic [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2020/11/17/ems-connects-with-audible-magic-musikwoche/">EMS connects with Audible Magic &#8211; MusikWoche</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="c-mrkdwn__pre" data-stringify-type="pre">The Leverkusen-based digital service provider Encoding Management Service (EMS) will in the future rely on the collaboration with Audible Magic in matters of content recognition and rights management and will use the RightsRx solution from the Californian company.</p>
+<p>Read the full article by MusikWoche <a href="https://www.mediabiz.de/musik/news/x/455636?NL=mwd&amp;uid=g54117&amp;ausg=20201117&amp;lpos=InV_4">here</a>.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://www.audiblemagic.com/2020/11/17/ems-connects-with-audible-magic-musikwoche/">EMS connects with Audible Magic &#8211; MusikWoche</a> appeared first on <a rel="nofollow" href="https://www.audiblemagic.com">Audible Magic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

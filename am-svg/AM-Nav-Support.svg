@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Login Face</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Header-Icons-Tooltip-Support-Copy" transform="translate(-426.000000, -20.000000)" stroke="#242735">
+            <g id="Header" transform="translate(-82.000000, 0.000000)">
+                <g id="Login-Face" transform="translate(509.000000, 21.000000)">
+                    <circle id="Oval" cx="19" cy="19" r="19"></circle>
+                    <path d="M7.5,29 C9.94213583,27.6030175 12.5399126,26.4894751 15.2415122,25.6815846 C16.4385649,25.2442084 16.5687104,22.5367088 15.7106081,21.6041099 C14.4720806,20.2609417 13.4223355,18.6849766 13.4223355,14.8812147 C13.2764069,13.3483351 13.8033892,11.827257 14.8698357,10.7031604 C15.9362822,9.57906388 17.4399253,8.95974479 19,9.0020323 C20.5600747,8.95974479 22.0637178,9.57906388 23.1301643,10.7031604 C24.1966108,11.827257 24.7235931,13.3483351 24.5776645,14.8812147 C24.5776645,18.6906201 23.5279194,20.2609417 22.2893919,21.6041099 C21.4312896,22.5367088 21.5614351,25.2442084 22.7584878,25.6815846 C25.4600874,26.4894751 28.0578642,27.6030175 30.5,29" id="Shape" stroke-width="1.39999998"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

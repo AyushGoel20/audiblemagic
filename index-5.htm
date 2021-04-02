@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang=en>
+  <head>
+    <meta charset=utf-8>
+    <title>CMJ - The Music Marathon 2021</title>
+    <meta name="description" content="The non stop music festival from New York to the world" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!-- OpenGraph -->
+    <meta property="og:site_name" content="CMJ - The Music Marathon">
+    <meta property="og:title" content="CMJ - The Music Marathon">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="The non stop music festival from New York to the world">
+    <meta property="og:image" content="https://cmj.com/assets/socialSharingImage.png">
+    <meta property="og:url" content="https://cmj.com/">
+
+    <!-- Twitter App Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@CMJ">
+    <meta name="twitter:title" content="CMJ - The Music Marathon">
+    <meta name="twitter:description" content="The non stop music festival from New York to the world">
+    <meta name="twitter:image" content="https://cmj.com/assets/socialSharingImage.png">
+
+    <link rel="apple-touch-icon" href="/assets/appleIcon.png"/>
+    <link rel="icon" type="image/png" href="/assets/favicon32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/favicon64.png" sizes="64x64">
+
+    <link rel="preload" href="/assets/iconPlay.svg" as="image">
+    <link rel="preload" href="/assets/iconPause.svg" as="image">
+    <link rel="preload" href="/assets/iconExpand.svg" as="image">
+    <link rel="preload" href="/assets/iconExpandWhite.svg" as="image">
+    <link rel="preload" href="/assets/iconMinimise.svg" as="image">
+    <link rel="preload" href="/assets/iconClose.svg" as="image">
+    <link rel="preload" href="/assets/arrowWhite.svg" as="image">
+    <link rel="preload" href="/assets/arrowYellow.svg" as="image">
+    <link rel="preload" href="/assets/arrowBlue.svg" as="image">
+    <link rel="preload" href="/assets/chevronYellow.svg" as="image">
+    <link rel="preload" href="/assets/chevronWhite.svg" as="image">
+
+    <!-- Matomo -->
+    <script type="text/javascript">
+      var _paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="https://analytics.amazing-media.com/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '21']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <!-- End Matomo Code -->
+    
+  <link href="/main.60dcc229e598c29656c4.css" rel="stylesheet"></head>
+
+  <body>
+  
+  <!-- overlay for dialogs -->
+  <div class="overlay"></div>
+
+  <!-- intro video -->
+  <div class="intro">
+    <div class="videoSurround">
+      <div class="videoEmbed">
+        <video width="320" height="240" id="intro" playsinline>
+          <source src="https://assets.amazingradio.com/wp-content/uploads/sites/3/2021/03/CMJ2021-intro.mp4" type="video/mp4" id="introSrc">
+        </video>
+      </div>
+      <div class="btn">skip intro</div>
+    </div>
+  </div>
+
+  <!-- header -->
+  <header>
+
+    <div class="topSection">
+      <div class="copy">THE NON STOP VIRTUAL MUSIC FESTIVAL FROM NEW YORK TO THE WORLD</div>
+
+      <div class="static">
+        <div class="socialContainer">
+          <div class="socialIcons">
+            <a href="https://www.facebook.com/cmjdotcom/" target="_blank" class="facebook"></a>
+            <a href="https://twitter.com/cmj" target="_blank" class="twitter"></a>
+            <a href="https://www.instagram.com/cmjofficial/" target="_blank" class="instagram"></a>
+          </div>
+          <a href="http://eepurl.com/hdrP2f" target="_blank" class="signup">Sign up for news</a>
+        </div>
+        <div class="logo"></div>
+        <img class="musicMarathon" src="/assets/logoMusicMarathonWhite.svg"/>
+      </div>
+
+      <div class="skyline"></div>
+      <div class="stats">
+        <div><div data-count='stages' class="number"></div><div class="attribute">Stages</div></div>
+        <div><div data-count='artists' class="number"></div><div class="attribute">Artists</div></div>
+        <div><div class="number">26</div><div class="attribute">Hours of New Music</div></div>
+      </div>
+      <div class="stagesDropdownSurround">
+        <div data-stages-menu-toggle class="stagesDropdownHeader">
+          <div>EXPLORE THE STAGES</div>
+          <div class="arrow"></div>
+        </div>
+        <div data-stages-menu class="stagesDropdown">
+          <!-- dynamically filled, see html_templates.js -->
+        </div>
+      </div>
+    </div>
+
+    <div class="midSection">
+      <div></div>
+      <div>View the stages and select an artist <span class="bold">to see their set...</span></div>
+    </div>
+
+  </header>
+
+<!-- poster -->
+<section>
+
+	<div class="innerContent">
+		<div class="poster" data-stages>
+	  	<!-- dynamically filled, see html_templates.js -->
+	  </div>
+	</div>
+
+	<!-- markup for dialog with video -->
+	<div data-dialog="video" class="dialog dialogVideo">
+		<div class="dialogContent">
+			<div class="info">
+				<div data-artist-name class="artistName"></div>
+				<a data-artist-url href="" target="_blank">view profile on Amazing Radio</a>
+			</div>
+			<div class="close"></div>
+			<div class="embed"><iframe data-video width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+			<div class="likeAndShare">
+        <div class="likeSurround">
+  <div data-like-button class="like" title="like this artist"></div>
+  <div data-like-count class="likeCount"></div>
+</div>
+        <div class="shareContainer">
+  <div data-toggle-share class="share" title="share"></div>
+  <div data-share-menu class="dialogShare">
+    <div class="shareOptions">
+      <div class="closeShare"><img src="/assets/iconCloseDark.svg"/></div>
+        <a href="#" target="_blank" data-share="facebook" title="share to facebook">Share On Facebook</a>
+        <a href="#" target="_blank" data-share="twitter" title="share to twitter">Share On Twitter</a>
+        <a href="#" data-share="clipboard" title="copy link">Copy Link</a>
+        <span style="display:none" data-shared="clipboard">Link copied</span>
+    </div>
+  </div>
+</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- markup for dialog with audio -->
+	<div data-dialog="tune" class="dialog dialogAudio">
+		<div class="dialogContent">
+			<div class="close"></div>
+			<div class="info">
+				<div data-artist-name class="artistName"></div>
+				<div data-tune-name class="tuneTitle"></div>
+				<a data-artist-url href="" target="_blank">view profile on Amazing Radio</a>
+				<div class="mobileLikeCountSurround"><div data-like-count class="mobileLikeCount"></div></div>
+			</div>
+			<div data-image class="img"></div>
+			<div class="playSurround">
+				<div class="playButton paused"></div>
+        <div class="playerStatus">
+          <input type="range" class="slider" data-player-scrubber>
+          <div class="timings">
+            <div class="tuneTime" data-player-time>0:00</div>
+            <div class="tuneDuration" data-player-duration>12:01</div>
+          </div>
+        </div>
+        <div class="shareContainer">
+  <div data-toggle-share class="share" title="share"></div>
+  <div data-share-menu class="dialogShare">
+    <div class="shareOptions">
+      <div class="closeShare"><img src="/assets/iconCloseDark.svg"/></div>
+        <a href="#" target="_blank" data-share="facebook" title="share to facebook">Share On Facebook</a>
+        <a href="#" target="_blank" data-share="twitter" title="share to twitter">Share On Twitter</a>
+        <a href="#" data-share="clipboard" title="copy link">Copy Link</a>
+        <span style="display:none" data-shared="clipboard">Link copied</span>
+    </div>
+  </div>
+</div>
+        <div class="likeSurround">
+  <div data-like-button class="like" title="like this artist"></div>
+  <div data-like-count class="likeCount"></div>
+</div>
+			</div>
+		</div>
+	</div>
+
+  <!-- audio player -->
+  <audio id="player"></audio>
+
+</section>
+
+<footer>
+	<div class="innerContent">
+
+		<!-- footer links & social media -->
+		<div class="footerInfo">
+
+			<div class="socialIcons">
+        <a href="https://www.facebook.com/cmjdotcom/" target="_blank" class="facebook"></a>
+        <a href="https://twitter.com/cmj" target="_blank" class="twitter"></a>
+        <a href="https://www.instagram.com/cmjofficial/" target="_blank" class="instagram"></a>
+      </div>
+
+      <div class="signUpSurround">
+      	<a class="signUp" href="http://eepurl.com/hdrP2f" target="_blank">Sign up for news &amp; offers</a>
+      </div>
+
+			<div class="logoContainer">
+				<div><span class="mm">CMJ Music Marathon</span> is powered by</div>
+				<a href="https://amazingradio.us/" target="_blank"><img src="/assets/logoAR.svg"/></a>
+				<div class="aboutAndContact">
+					<a href="https://amazing.us/aboutus/" target="_blank">About</a>
+					<a href="https://amazingradio.us/contact" target="_blank">Contact</a>
+				</div>
+			</div>
+
+			<div class="linksContainer">
+				<div class="copyright">&copy; Amazing Media Group/Amazing America 2007 - <span id="year"></span></div>
+				<div class="links"> <a href="https://amazingradio.us/terms" target="_blank">Terms &amp; Conditions</a></div>
+			</div>
+
+		</div>
+
+	</div>
+</footer>
+
+<script type="text/javascript" src="/runtime.32eed35343753aec21f8.js"></script><script type="text/javascript" src="/vendors.0faaeb602f7d69d1be9b.js"></script><script type="text/javascript" src="/main.67f6e386ecc871e44194.js"></script></body>
+</html>

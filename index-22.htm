@@ -1,0 +1,1373 @@
+<!DOCTYPE html>
+<html lang="en" class="musicreports_website html-mri">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="vendor/bootstrap-4.3.1-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="musicreports_css-scss/scss/musicreports.css">
+    <title>Welcome to Music Reports!</title>
+    <meta name="title" content="Welcome to Music Reports!">
+    <meta name="description" content="Music Reports serves individuals and organizations seeking expertise and solutions in music rights licensing, administration, royalty accounting, and software development and hosting.">
+    <meta name="keywords" content="where do I register my song, where do I claim my song, where can I enter my publishing splits, where can I submit my catalog, who is the most trusted royalty distributor, how do I collect my royalties, how can I register my music, who handles mechanical licensing, how do streaming companies pay artists, diy, songwriter royalties, music copyright, royalty payments, largest music database, rights administration, largest music copyright registry, most trusted source for music data, independent artist">
+    <link rel="icon" href="favicon.ico">
+    <script type="text/javascript" src="vendor/jquery/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="vendor/jquery/jquery-ui.js"></script>
+    <link rel="stylesheet" type="text/css" href="vendor/jquery/jquery-ui-1.12.1/jquery-ui.css" />
+    <script src="vendor/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+    <script src="js/home.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Heebo&display=swap" rel="stylesheet"> -->
+    <script>
+        $(document).ready(function () {
+            if (localStorage.mricookies) {
+                $('#section-8').addClass('hidden');
+            }
+        });
+        function mriCookies() {
+            localStorage.mricookies = true;
+            $('#section-8').addClass('hidden');
+        }
+    </script>
+    <script>localStorage.cookiecheck = 'done';</script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-20271303-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-20271303-1');
+        </script> </head>
+
+<body class="shell-default body-header-has-prenav" onload="docReady();">
+
+    <header>
+    <div class="prenav">
+        <div class="navbar-section-inner prenav-section-inner">
+            <div class="insert-group insert-group-a">
+
+
+                <ul class="insert-101 insert-101-a navbar-nav">
+                    <li class="insert-102 insert-102-a nav-item">
+                        <a class="" href="https://royaltylogic.com">
+                            <div class="rl-top-img" src="img/rl-logomark.svg">
+                                <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161.33 102.33">
+                                    <defs>
+                                        <style>
+                                            .cls-1 {
+                                                fill: #f36d24;
+                                            }
+                                        </style>
+                                    </defs>
+                                    <path class="cls-1" d="M102.2,35.4V43c26.2,7.7,45.2,29.9,50.1,57.1h7.1c-4.9-31-27.3-56.6-57.2-64.7Z" />
+                                    <path class="cls-1" d="M102.2,51.1v7.6A56.28,56.28,0,0,1,137.1,100h7.1C140.3,77.2,124,58.8,102.2,51.1Z" />
+                                    <path class="cls-1" d="M102.2,66.9v8.2c9.8,5.4,16.4,14.1,19.6,25h7.1A48.48,48.48,0,0,0,102.2,66.9ZM74.9,31.6c0-3.8,2.7-6.5,6-6.5s6,2.7,6,6.5v1.1h-12Zm12,15.7h-12V39.7h12Zm0,15.3a17.45,17.45,0,0,0-6-.5,24.34,24.34,0,0,0-6,.5V55a17.45,17.45,0,0,1,6-.5,24.34,24.34,0,0,1,6,.5ZM67.3,33.7A79.11,79.11,0,0,0,3,100.1h7.1A72.65,72.65,0,0,1,67.3,40.8V49a64.66,64.66,0,0,0-49.6,51.1h7.1a58.43,58.43,0,0,1,42.5-44v8.2A49.65,49.65,0,0,0,33,100.1h7.1c3.8-13.6,14.2-23.9,27.2-28.8,2.2-.6,4.9-1.1,7.6-1.6a17.45,17.45,0,0,1,6-.5,24.34,24.34,0,0,1,6,.5v30.5h7.6V1.8L67.3,6.7v27Z" />
+                                    <path class="cls-1" d="M67.3,79.4v20.7h7.6V77.3L70,78.9l-2.7.5Z" />
+                                </svg>
+                            </div>
+                            <span class="rl-logotype">Royalty Logic™</span>
+                        </a>
+                    </li>
+                    <li class="insert-102 insert-102-b nav-item">
+                        <a class="" href="https://www.songdex.com">
+                            <span class="song-top-img" src="img/songdex-bird.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 188">
+                                    <style>
+                                        .st5 {
+                                            fill: #1685be
+                                        }
+
+                                        .st6 {
+                                            fill: #3c4ea1
+                                        }
+
+                                        .st7 {
+                                            fill: #48b0e4
+                                        }
+                                    </style>
+                                    <g id="Layer_2">
+                                        <path class="st5" d="M146.4 53.2L60 .7l17.7 31.9 65.6 23.6z"></path>
+                                        <path class="st7" d="M182.5 51.6l-5.1 8.5 37.7-7.7zM.9 15.6l93.3 92 48.1-52.5z"></path>
+                                        <path class="st5" d="M142.1 55L94 107.5l80-17.8z"></path>
+                                        <path class="st6" d="M142.1 55L174 89.7l8.7-38.1"></path>
+                                        <path class="st7" d="M94 107.5l33.7 9.6L174 89.7z"></path>
+                                        <path class="st6" d="M94 107.5l20.4 79.8 13.3-70.2z"></path>
+                                        <path fill="#80c8eb" d="M159.3 36.8l-17 18.3 40.2-3.5z"></path>
+                                    </g>
+                                </svg>
+                            </span>
+                            <span class="song-logotype" src="img/songdex-logotype.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 547.7 57.6">
+                                    <style>
+                                        .st0 {
+                                            fill: #333
+                                        }
+                                    </style>
+                                    <g id="Layer_6">
+                                        <path class="st0" d="M547.1 13.3c0 6.6-5.4 11.5-11.8 11.5s-11.8-4.9-11.8-11.5 5.4-11.5 11.8-11.5 11.8 5 11.8 11.5zm-2.1 0c0-5.4-4.5-9.5-9.7-9.5s-9.7 4.1-9.7 9.5 4.5 9.5 9.7 9.5 9.7-4.1 9.7-9.5zm-7.9 1.4l3.4 4h-2.1l-3.2-3.9h-2.3v3.9h-1.6V7.5h4.7c2.4 0 4.2 1.5 4.2 3.8-.1 1.7-1.4 3.1-3.1 3.4zm-1.2-1.3c1.4 0 2.5-.9 2.5-2.2 0-1.3-1.1-2.2-2.5-2.2h-3.1v4.4h3.1zM16.8 33.3l-6-3.6c-3.7-2.3-6.4-4.5-8-6.8C1.2 20.7.4 18.1.4 15.3.5 10.9 2 7.4 5 4.7 8 2 11.9.7 16.7.7c4.6 0 8.8 1.3 12.6 3.9v8.9c-4-3.8-8.2-5.7-12.8-5.7-2.6 0-4.7.6-6.3 1.8-1.7 1.2-2.5 2.7-2.5 4.6 0 1.6.6 3.2 1.8 4.6 1.2 1.4 3.2 2.9 5.9 4.5l6 3.6c6.7 4 10 9.1 10 15.3 0 4.4-1.5 8-4.4 10.7-2.9 2.8-6.8 4.1-11.5 4.1-5.4 0-10.4-1.7-14.8-5V42c4.3 5.3 9.2 8 14.7 8 2.5 0 4.5-.7 6.1-2.1 1.6-1.4 2.5-3.1 2.5-5.1 0-3.4-2.4-6.5-7.2-9.5zM88.8.6c8.5 0 15.5 2.7 21.2 8.1 5.6 5.4 8.5 12.1 8.5 20.2S115.7 43.7 110 49c-5.7 5.3-12.9 8-21.5 8-8.3 0-15.2-2.7-20.7-8s-8.3-12-8.3-19.9c0-8.2 2.8-15 8.3-20.4C73.3 3.3 80.3.6 88.8.6zm.3 7.5c-6.3 0-11.4 2-15.5 5.9s-6.1 8.9-6.1 15c0 5.9 2 10.8 6.1 14.8 4.1 3.9 9.1 5.9 15.2 5.9s11.2-2 15.3-6c4.1-4 6.1-9 6.1-15 0-5.8-2-10.7-6.1-14.7-4-4-9-5.9-15-5.9zM193.6 1.4h7.5v54.9h-6.8L157.6 14v42.3h-7.4V1.4h6.4l37 42.6V1.4zM264.3 29.2h18.4v23.3c-6.8 2.9-13.5 4.4-20.1 4.4-9.1 0-16.4-2.7-21.8-8-5.4-5.3-8.2-11.8-8.2-19.6 0-8.2 2.8-15 8.4-20.5 5.6-5.4 12.7-8.2 21.2-8.2 3.1 0 6 .3 8.8 1 2.8.7 6.3 1.9 10.5 3.7v8c-6.5-3.8-13-5.7-19.5-5.7-6 0-11.1 2-15.2 6.1s-6.2 9.1-6.2 15c0 6.2 2.1 11.3 6.2 15.3s9.4 5.9 15.9 5.9c3.1 0 6.9-.7 11.3-2.2l.7-.2V36.2h-10.6v-7zM316.1 56.2V1.4h18.5c7.5 0 13.4 1.1 17.7 3.4 4.3 2.2 7.8 5.5 10.4 9.9 2.6 4.4 3.9 9.1 3.9 14.2 0 3.7-.7 7.2-2.1 10.5-1.4 3.4-3.4 6.3-6.1 8.8-2.7 2.6-5.8 4.6-9.3 5.9-2.1.8-4 1.4-5.7 1.6-1.7.3-5 .4-9.9.4h-17.4zm17.6-47.8h-9.8v40.8H334c3.9 0 7-.3 9.2-.8 2.2-.5 4-1.2 5.4-2 1.5-.8 2.8-1.8 4-3 3.9-3.9 5.8-8.9 5.8-14.9 0-5.9-2-10.7-6-14.4-1.5-1.4-3.1-2.5-5-3.4-1.9-.9-3.7-1.5-5.4-1.8-1.8-.4-4.5-.5-8.3-.5zM398.1 1.4h31.1v7H406v16.7h22.5v7H406v17.1h24v7h-31.9V1.4zM499.9 1.4h9.5l-22 26.5L511 56.3h-9.5l-18.7-22.8-18.9 22.8h-9.6l23.6-28.4L456 1.4h9.6l17.2 21 17.1-21z">
+                                        </path>
+                                    </g>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-c nav-item">
+                        <a class="" href="https://www.cuetrak.com"><span class="cue-top-img" src="img/cuetrak-plane.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 188">
+                                    <style>
+                                        .st6 {
+                                            fill: #3c4ea1
+                                        }
+                                    </style>
+                                    <g id="Layer_1">
+                                        <path fill="#1685be" d="M78.2 111.7l13.6 47 34.8-34.1 88.6-105.9z"></path>
+                                        <path class="st6" d="M105.3 124.9l-13.5 33.8 55.6-37.5z"></path>
+                                        <path fill="#48b0e4" d="M215.2 18.7L105.3 124.9l91.9 44.4z"></path>
+                                        <path fill="#80c8eb" d="M153.6 78.2l61.6-59.5-18 150.6z"></path>
+                                        <path fill="#5dbbea" d="M.8 74.3l77.4 37.4 137-93z"></path>
+                                        <path fill="#2fa1db" d="M.8 74.3l77.4 37.4 59.6-40.4z"></path>
+                                        <path class="st6" d="M137.8 71.3l2 20.1 75.4-72.7z"></path>
+                                    </g>
+                                </svg>
+                            </span>
+                            <span class="cue-logotype" src="img/cuetrak-logotype.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 516.4 56.8">
+                                    <style>
+                                        .st0 {
+                                            fill: #333
+                                        }
+
+                                        .st2 {
+                                            display: inline
+                                        }
+
+                                        .st3 {
+                                            fill: #121212
+                                        }
+                                    </style>
+                                    <g id="Layer_5">
+                                        <g id="white-letters_1_">
+                                            <path class="st0" d="M50.2 43.2v8.7c-5.8 3.1-12.4 4.7-20 4.7-6.1 0-11.4-1.2-15.6-3.7-4.3-2.5-7.7-5.9-10.2-10.3-2.5-4.3-3.7-9-3.7-14.1 0-8 2.9-14.7 8.6-20.2C14.9 2.9 22 .2 30.3.2c5.8 0 12.2 1.5 19.3 4.5v8.5c-6.4-3.7-12.7-5.5-18.9-5.5-6.3 0-11.5 2-15.7 6-4.2 4-6.2 9-6.2 14.9 0 6 2 11 6.1 14.9 4.1 3.9 9.3 5.8 15.7 5.8 6.7 0 13.2-2 19.6-6.1zM119.5.9h7.9v31.2c0 4.2-.3 7.4-.9 9.6-.6 2.2-1.4 3.9-2.3 5.4-.9 1.4-2 2.7-3.3 3.8-4.4 3.8-10.1 5.6-17.1 5.6-7.2 0-12.9-1.9-17.2-5.6-1.3-1.2-2.4-2.4-3.3-3.9-.9-1.4-1.7-3.2-2.2-5.3-.6-2.1-.9-5.3-.9-9.8V.9H88v31.2c0 5.2.6 8.8 1.8 10.8 1.2 2 3 3.6 5.4 4.9 2.4 1.2 5.3 1.8 8.5 1.8 4.7 0 8.5-1.2 11.4-3.7 1.5-1.3 2.7-2.9 3.3-4.6.7-1.8 1-4.8 1-9.2V.9zM159.7.9h31.2v7h-23.3v16.8h22.5v7h-22.5v17.1h24.1v7h-31.9V.9zM216.8.8h45.9v7h-19.2v48.1h-7.9V7.8h-18.9v-7zM291.8 55.9V.9h13.8c5.6 0 10 1.4 13.2 4.1 3.3 2.8 4.9 6.5 4.9 11.2 0 3.2-.8 6-2.4 8.3-1.6 2.3-3.9 4.1-6.9 5.2 1.8 1.2 3.5 2.7 5.2 4.7 1.7 2 4 5.5 7.1 10.4 1.9 3.1 3.5 5.5 4.6 7l2.9 3.9h-9.4l-2.4-3.6c-.1-.1-.2-.4-.5-.7l-1.5-2.2-2.4-4-2.6-4.3c-1.6-2.3-3.1-4.1-4.5-5.4-1.4-1.3-2.6-2.3-3.7-2.9-1.1-.6-2.9-.9-5.5-.9h-2v23.9h-7.9zM302 7.6h-2.4V25h3c4 0 6.7-.3 8.2-1 1.5-.7 2.6-1.7 3.5-3.1.8-1.4 1.2-2.9 1.2-4.7 0-1.7-.5-3.3-1.4-4.7-.9-1.4-2.2-2.4-3.9-3-1.6-.6-4.3-.9-8.2-.9zM379.2.6h5.5l24.7 55.3h-8.1L394 39.6h-23.5l-6.9 16.3h-8.1L379.2.6zm11.5 32l-8.9-19.9-8.2 19.9h17.1zM462.3.9h9.8L448.3 27l32.8 28.9h-13.8l-28.1-27.2v27.2h-7.9V.9h7.9v25.2L462.3.9z">
+                                            </path>
+                                            <g>
+                                                <path class="st0" d="M515.7 12.9c0 6.6-5.4 11.5-11.8 11.5s-11.8-4.9-11.8-11.5 5.4-11.5 11.8-11.5c6.5 0 11.8 5 11.8 11.5zm-2.1 0c0-5.4-4.5-9.5-9.7-9.5-5.2 0-9.7 4.1-9.7 9.5s4.5 9.5 9.7 9.5c5.2.1 9.7-4.1 9.7-9.5zm-7.9 1.4l3.4 4H507l-3.2-3.9h-2.3v3.9h-1.6V7.1h4.7c2.4 0 4.2 1.5 4.2 3.8-.1 1.7-1.3 3.1-3.1 3.4zm-1.1-1.3c1.4 0 2.5-.9 2.5-2.2 0-1.3-1.1-2.2-2.5-2.2h-3.1V13h3.1z">
+                                                </path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-d hide-nav-small nav-item prenav-active">
+                        <a class="selected-logo" href=""><span class="mri-top-img" src="img/optimized-mri-logo.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374.8 167">
+                                    <style>
+                                        .st0-mri {
+                                            display: none
+                                        }
+
+                                        .st2-mri {
+                                            fill: #2fa1db
+                                        }
+
+                                        .st3-mri {
+                                            fill: #33437f
+                                        }
+
+                                        .st4-mri {
+                                            fill: #80c8eb
+                                        }
+
+                                        .st5-mri {
+                                            display: none;
+                                            fill: #fff
+                                        }
+                                    </style>
+                                    <g id="Layer_1">
+                                        <path d="M375.9 154.7h-2.4V153h6.8v1.7h-2.4v6.9H376v-6.9z" fill="#33437f">
+                                        </path>
+                                        <path class="st2-mri" d="M309.6 90.5V39.4H320v51.1h-10.4z"></path>
+                                        <path class="st3-mri" d="M1 32.2h19.4l13.4 38.1h.2l13.5-38.1h19.4v58.3H54.1V45.8h-.2L38.6 90.5h-9.8L14 45.8h-.2v44.7H1V32.2zM124.8 68c0 13.8-8.4 24-24.6 24C84 92 75.6 81.8 75.6 68V32.2h12.9v35.3c0 7.2 4.9 12.6 11.8 12.6 6.8 0 11.7-5.4 11.7-12.6V32.2h12.9V68zM165.5 46.4c-2.1-2.6-6.2-3.9-9.3-3.9-3.6 0-8.7 1.7-8.7 6 0 10.6 26.9 3.8 26.9 24.2 0 13-10.5 19.2-22.5 19.2-7.5 0-14.1-2.2-19.6-7.3l9.1-10.1c2.6 3.5 6.9 5.5 11.2 5.5 4.2 0 8.9-2 8.9-6.1 0-10.7-27.4-4.9-27.4-24.4 0-12.4 10.8-18.9 22.2-18.9 6.6 0 12.9 1.7 17.9 6.1l-8.7 9.7zM183.8 32.2h12.9v58.3h-12.9V32.2zM246.5 47.3c-2.6-3-6.3-4.8-11-4.8-9.7 0-16.9 7.9-16.9 18.8s7.2 18.8 16.5 18.8c5.2 0 9.4-2.3 12-6.3l10.7 8c-4.9 6.9-13.1 10.1-21.1 10.1-18.2 0-31.5-11.9-31.5-30.6 0-18.7 13.3-30.6 31.5-30.6 6.5 0 14.7 2.2 19.7 8.6l-9.9 8zM1 104.1h22.6c11.9 0 22 4.1 22 17.7 0 8.2-4.4 14.5-12.6 16l14.8 24.6H32.4l-12.2-23.3h-6.3v23.3H1v-58.3zm12.8 24.1h7.6c4.7 0 10.8-.2 10.8-6.5 0-5.8-5.3-6.8-10-6.8h-8.4v13.3zM56.7 104.1h39.6V116H69.5v10.9h25.3v11.9H69.5v11.9h28.3v11.9H56.7v-58.5zM109 104.1h21.7c12.1 0 22.2 3.9 22.2 17.7 0 13.7-9.3 17.9-21.6 17.9h-9.4v22.7H109v-58.3zm12.9 24.7h8.6c4.5 0 9.1-1.6 9.1-7 0-6-6.1-6.8-11-6.8H122v13.8zM189.2 102.6c18.2 0 31.5 11.9 31.5 30.6 0 18.7-13.3 30.6-31.5 30.6s-31.5-11.9-31.5-30.6c.1-18.7 13.3-30.6 31.5-30.6zm0 49.4c11 0 18.1-7.9 18.1-18.8s-7.2-18.8-18.1-18.8c-11 0-18.1 7.9-18.1 18.8s7.2 18.8 18.1 18.8zM229.4 104.1H252c11.9 0 22 4.1 22 17.7 0 8.2-4.4 14.5-12.6 16l14.8 24.6h-15.4l-12.2-23.3h-6.3v23.3h-12.8v-58.3zm12.9 24.1h7.6c4.7 0 10.8-.2 10.8-6.5 0-5.8-5.3-6.8-10-6.8h-8.4v13.3zM294.2 115.4h-16.6V104h46.1v11.4h-16.6v47h-12.9v-47zM359.8 118.3c-2.1-2.6-6.2-3.9-9.3-3.9-3.6 0-8.6 1.6-8.6 6 0 10.6 26.9 3.8 26.9 24.2 0 13-10.5 19.2-22.5 19.2-7.5 0-14.1-2.2-19.6-7.3l9.1-10.1c2.6 3.5 6.9 5.5 11.2 5.5 4.2 0 8.9-2 8.9-6.1 0-10.7-27.4-4.9-27.4-24.4 0-12.4 10.8-18.9 22.2-18.9 6.6 0 12.9 1.7 17.9 6.1l-8.8 9.7z">
+                                        </path>
+                                        <g>
+                                            <path class="st3-mri" d="M374.1 161.4c0 2.7-2.1 4.8-4.9 4.8-2.7 0-4.9-2.1-4.9-4.8 0-2.6 2.2-4.8 4.9-4.8 2.8 0 4.9 2.1 4.9 4.8zm-8.5 0c0 2.1 1.6 3.8 3.7 3.8s3.6-1.7 3.6-3.8c0-2.1-1.5-3.8-3.7-3.8-2.1 0-3.6 1.7-3.6 3.8zm2.9 2.5h-1.1v-4.8c.4-.1 1-.1 1.8-.1.9 0 1.3.1 1.7.3.3.2.5.6.5 1 0 .5-.4.9-1 1.1v.1c.5.2.7.5.9 1.2.1.7.2 1 .3 1.2h-1.2c-.1-.2-.2-.6-.4-1.2-.1-.5-.4-.8-1-.8h-.5v2zm0-2.7h.5c.6 0 1.1-.2 1.1-.7 0-.4-.3-.7-1-.7-.3 0-.5 0-.6.1v1.3z">
+                                            </path>
+                                        </g>
+                                        <g>
+                                            <path class="st2-mri" d="M350.5 90.5V4.4h10.4v86.1h-10.4z"></path>
+                                        </g>
+                                        <g>
+                                            <path class="st4-mri" d="M330.3 90.5V23.8h10.4v66.7h-10.4z"></path>
+                                        </g>
+                                        <g>
+                                            <path class="st4-mri" d="M289.9 90.5V23.8h10.4v66.7h-10.4z"></path>
+                                        </g>
+                                        <g>
+                                            <path class="st2-mri" d="M269.7 90.5V4.4h10.4v86.1h-10.4z"></path>
+                                        </g>
+                                        <path class="st5-mri" d="M-21 55.4H1.2v19.1H-21z"></path>
+                                        <path class="st5-mri" d="M1 3.5h183.8v77.4H1z"></path>
+                                        <path class="st0-mri" d="M368.7 137.1h6.1v18.7h-6.1zM-5.1 137.1H1v18.7h-6.1z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </span></a>
+                    </li>
+                </ul>
+
+
+            </div>
+            <div class="insert-group insert-group-b">
+
+
+
+                <ul class="hide-nav-small insert-101 insert-101-a navbar-nav">
+                    <li class="insert-102 insert-102-a nav-item ">
+                        <a target="_blank" href="https://www.facebook.com/MusicReportsInc"><span class="" src="img/iconmonstr-facebook-1.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M9 8H6v4h3v12h5V12h3.642L18 8h-4V6.333C14 5.378 14.192 5 15.115 5H18V0h-3.808C10.596 0 9 1.583 9 4.615V8z">
+                                    </path>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-b nav-item">
+                        <a target="_blank" href="https://www.instagram.com/MusicReportsInc"><span class="" src="img/iconmonstr-instagram-11.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z">
+                                    </path>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-c nav-item">
+                        <a target="_blank" href="https://www.twitter.com/MusicReportsInc"><span class="" src="img/iconmonstr-twitter-1.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 4.557a9.83 9.83 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724 9.864 9.864 0 0 1-3.127 1.195 4.916 4.916 0 0 0-3.594-1.555c-3.179 0-5.515 2.966-4.797 6.045A13.978 13.978 0 0 1 1.671 3.149a4.93 4.93 0 0 0 1.523 6.574 4.903 4.903 0 0 1-2.229-.616c-.054 2.281 1.581 4.415 3.949 4.89a4.935 4.935 0 0 1-2.224.084 4.928 4.928 0 0 0 4.6 3.419A9.9 9.9 0 0 1 0 19.54a13.94 13.94 0 0 0 7.548 2.212c9.142 0 14.307-7.721 13.995-14.646A10.025 10.025 0 0 0 24 4.557z">
+                                    </path>
+                                </svg></span></a>
+                    </li>
+                </ul>
+
+
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+        <div class="navbar-section-inner nav-section-inner">
+            <a class="navbar-brand" href="" style="box-shadow:inset -1px 0 0 rgba(0, 0, 0, 0);">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374.8 167">
+                    <style>
+                        .st0 {
+                            display: none
+                        }
+
+                        .st2 {
+                            fill: #2fa1db
+                        }
+
+                        .st3 {
+                            fill: white
+                        }
+
+                        .st4 {
+                            fill: #80c8eb
+                        }
+
+                        .st5-m {
+                            display: none;
+                            fill: #fff
+                        }
+                    </style>
+                    <g id="Layer_1">
+                        <path d="M375.9 154.7h-2.4V153h6.8v1.7h-2.4v6.9H376v-6.9z" fill="#33437f"></path>
+                        <path class="st2" d="M309.6 90.5V39.4H320v51.1h-10.4z"></path>
+                        <path class="st3" d="M1 32.2h19.4l13.4 38.1h.2l13.5-38.1h19.4v58.3H54.1V45.8h-.2L38.6 90.5h-9.8L14 45.8h-.2v44.7H1V32.2zM124.8 68c0 13.8-8.4 24-24.6 24C84 92 75.6 81.8 75.6 68V32.2h12.9v35.3c0 7.2 4.9 12.6 11.8 12.6 6.8 0 11.7-5.4 11.7-12.6V32.2h12.9V68zM165.5 46.4c-2.1-2.6-6.2-3.9-9.3-3.9-3.6 0-8.7 1.7-8.7 6 0 10.6 26.9 3.8 26.9 24.2 0 13-10.5 19.2-22.5 19.2-7.5 0-14.1-2.2-19.6-7.3l9.1-10.1c2.6 3.5 6.9 5.5 11.2 5.5 4.2 0 8.9-2 8.9-6.1 0-10.7-27.4-4.9-27.4-24.4 0-12.4 10.8-18.9 22.2-18.9 6.6 0 12.9 1.7 17.9 6.1l-8.7 9.7zM183.8 32.2h12.9v58.3h-12.9V32.2zM246.5 47.3c-2.6-3-6.3-4.8-11-4.8-9.7 0-16.9 7.9-16.9 18.8s7.2 18.8 16.5 18.8c5.2 0 9.4-2.3 12-6.3l10.7 8c-4.9 6.9-13.1 10.1-21.1 10.1-18.2 0-31.5-11.9-31.5-30.6 0-18.7 13.3-30.6 31.5-30.6 6.5 0 14.7 2.2 19.7 8.6l-9.9 8zM1 104.1h22.6c11.9 0 22 4.1 22 17.7 0 8.2-4.4 14.5-12.6 16l14.8 24.6H32.4l-12.2-23.3h-6.3v23.3H1v-58.3zm12.8 24.1h7.6c4.7 0 10.8-.2 10.8-6.5 0-5.8-5.3-6.8-10-6.8h-8.4v13.3zM56.7 104.1h39.6V116H69.5v10.9h25.3v11.9H69.5v11.9h28.3v11.9H56.7v-58.5zM109 104.1h21.7c12.1 0 22.2 3.9 22.2 17.7 0 13.7-9.3 17.9-21.6 17.9h-9.4v22.7H109v-58.3zm12.9 24.7h8.6c4.5 0 9.1-1.6 9.1-7 0-6-6.1-6.8-11-6.8H122v13.8zM189.2 102.6c18.2 0 31.5 11.9 31.5 30.6 0 18.7-13.3 30.6-31.5 30.6s-31.5-11.9-31.5-30.6c.1-18.7 13.3-30.6 31.5-30.6zm0 49.4c11 0 18.1-7.9 18.1-18.8s-7.2-18.8-18.1-18.8c-11 0-18.1 7.9-18.1 18.8s7.2 18.8 18.1 18.8zM229.4 104.1H252c11.9 0 22 4.1 22 17.7 0 8.2-4.4 14.5-12.6 16l14.8 24.6h-15.4l-12.2-23.3h-6.3v23.3h-12.8v-58.3zm12.9 24.1h7.6c4.7 0 10.8-.2 10.8-6.5 0-5.8-5.3-6.8-10-6.8h-8.4v13.3zM294.2 115.4h-16.6V104h46.1v11.4h-16.6v47h-12.9v-47zM359.8 118.3c-2.1-2.6-6.2-3.9-9.3-3.9-3.6 0-8.6 1.6-8.6 6 0 10.6 26.9 3.8 26.9 24.2 0 13-10.5 19.2-22.5 19.2-7.5 0-14.1-2.2-19.6-7.3l9.1-10.1c2.6 3.5 6.9 5.5 11.2 5.5 4.2 0 8.9-2 8.9-6.1 0-10.7-27.4-4.9-27.4-24.4 0-12.4 10.8-18.9 22.2-18.9 6.6 0 12.9 1.7 17.9 6.1l-8.8 9.7z">
+                        </path>
+                        <g>
+                            <path class="st3" d="M374.1 161.4c0 2.7-2.1 4.8-4.9 4.8-2.7 0-4.9-2.1-4.9-4.8 0-2.6 2.2-4.8 4.9-4.8 2.8 0 4.9 2.1 4.9 4.8zm-8.5 0c0 2.1 1.6 3.8 3.7 3.8s3.6-1.7 3.6-3.8c0-2.1-1.5-3.8-3.7-3.8-2.1 0-3.6 1.7-3.6 3.8zm2.9 2.5h-1.1v-4.8c.4-.1 1-.1 1.8-.1.9 0 1.3.1 1.7.3.3.2.5.6.5 1 0 .5-.4.9-1 1.1v.1c.5.2.7.5.9 1.2.1.7.2 1 .3 1.2h-1.2c-.1-.2-.2-.6-.4-1.2-.1-.5-.4-.8-1-.8h-.5v2zm0-2.7h.5c.6 0 1.1-.2 1.1-.7 0-.4-.3-.7-1-.7-.3 0-.5 0-.6.1v1.3z">
+                            </path>
+                        </g>
+                        <g>
+                            <path class="st2" d="M350.5 90.5V4.4h10.4v86.1h-10.4z"></path>
+                        </g>
+                        <g>
+                            <path class="st4" d="M330.3 90.5V23.8h10.4v66.7h-10.4z"></path>
+                        </g>
+                        <g>
+                            <path class="st4" d="M289.9 90.5V23.8h10.4v66.7h-10.4z"></path>
+                        </g>
+                        <g>
+                            <path class="st2" d="M269.7 90.5V4.4h10.4v86.1h-10.4z"></path>
+                        </g>
+                        <path class="st5-m" d="M-21 55.4H1.2v19.1H-21z"></path>
+                        <path class="st5-m" d="M1 3.5h183.8v77.4H1z"></path>
+                        <path class="st0" d="M368.7 137.1h6.1v18.7h-6.1zM-5.1 137.1H1v18.7h-6.1z"></path>
+                    </g>
+                </svg>
+            </a>
+            <div class="header-wrapper">
+                <h3 class="headline"></h3>
+            </div>
+            <div id="top-client-dropdown"></div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+
+
+                <ul class="navbar-collapse-ul navbar-nav navbar-nav-a">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="osDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Our Services
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDosDropdownropdown">
+                            <a href="#section-2" data-column="songdex_marketplace" class="">Songdex
+                                Marketplace</a>
+                            <a href="#section-3" data-column="rights_user" class="">Songdex
+                                Pay</a>
+                            <a href="#section-4" data-column="rights_owner" class="">Songdex
+                                View</a>
+
+                            <a href="#section-5" data-column="data_services" class="">Audiovisual Services</a>
+                            <a href="#section-6" data-column="analysis_analytics" class="">Music Publishers</a>
+
+                        </div>
+                    </li>
+                    <li class="nav-press nav-link nav-item">
+                        <a href="press/" data-column="press" class="">Press</a>
+                    </li>
+                    <li class="nav-team nav-link nav-item ">
+                        <a href="team/" data-column="team" class="">Our Team</a>
+                    </li>
+                    <li class="nav-contact nav-link nav-item ">
+                        <a href="contact/" data-column="contact" onclick="removeLSItem('mri_page')" class="">Contact</a>
+                    </li>
+                    <li class="nav-contact nav-link nav-item ">
+                        <a href="careers/" data-column="careers" class="">Careers</a>
+                    </li>
+                    <li class="hide-nav-large nav-login nav-link nav-item ">
+                        <div id="item-wrapper-button-login" class="item-wrapper form-group form-group-button">
+                            <button onclick="window.location.href='login/'" id="item-button-login" class="item-button buttons " title="Log in"><span class="span-title">Log in</span>
+                            </button>
+                        </div>
+                    </li>
+                    <li class="hide-nav-large nav-sign-up nav-link nav-item ">
+                        <div id="item-wrapper-button-sign-up" class="item-wrapper form-group form-group-button">
+                            <button id="item-button-sign-up" class="item-button buttons  " title="Sign Up" onclick="location.href = 'signup.php?rt=c6';"><span class="span-title">Sign
+                                    Up</span>
+                            </button>
+                        </div>
+                    </li>
+                    <ul class="social-links hide-nav-large insert-101 insert-101-a navbar-nav">
+                        <li class="insert-102 insert-102-a nav-item ">
+                            <a target="_blank" href="https://www.facebook.com/MusicReportsInc"><span class="" src="img/iconmonstr-facebook-1.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                        <path d="M9 8H6v4h3v12h5V12h3.642L18 8h-4V6.333C14 5.378 14.192 5 15.115 5H18V0h-3.808C10.596 0 9 1.583 9 4.615V8z">
+                                        </path>
+                                    </svg></span></a>
+                        </li>
+                        <li class="insert-102 insert-102-b nav-item">
+                            <a target="_blank" href="https://www.instagram.com/MusicReportsInc"><span class="" src="img/iconmonstr-instagram-11.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                        <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z">
+                                        </path>
+                                    </svg></span></a>
+                        </li>
+                        <li class=" insert-102 insert-102-c nav-item">
+                            <a target="_blank" href="https://www.twitter.com/MusicReportsInc"><span class="" src="img/iconmonstr-twitter-1.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                        <path d="M24 4.557a9.83 9.83 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724 9.864 9.864 0 0 1-3.127 1.195 4.916 4.916 0 0 0-3.594-1.555c-3.179 0-5.515 2.966-4.797 6.045A13.978 13.978 0 0 1 1.671 3.149a4.93 4.93 0 0 0 1.523 6.574 4.903 4.903 0 0 1-2.229-.616c-.054 2.281 1.581 4.415 3.949 4.89a4.935 4.935 0 0 1-2.224.084 4.928 4.928 0 0 0 4.6 3.419A9.9 9.9 0 0 1 0 19.54a13.94 13.94 0 0 0 7.548 2.212c9.142 0 14.307-7.721 13.995-14.646A10.025 10.025 0 0 0 24 4.557z">
+                                        </path>
+                                    </svg></span></a>
+                        </li>
+                    </ul>
+                </ul>
+
+
+
+                <ul class="hide-nav-small navbar-nav navbar-nav-b">
+                    <li class="nav-login nav-link nav-item ">
+                        <div id="item-wrapper-button-login" class="item-wrapper form-group form-group-button">
+                            <button onclick="window.location.href='login/'" id="item-button-login" class="item-button buttons btn btn-green-pill" title="Log in"><span class="span-title">Log in</span>
+                            </button>
+                        </div>
+                    </li>
+                    <li class="nav-sign-up nav-link nav-item ">
+                        <div id="item-wrapper-button-sign-up" class="item-wrapper form-group form-group-button">
+                            <button id="item-button-sign-up" class="item-button buttons btn btn-green-pill" title="Sign Up" onclick="location.href = 'signup.php?rt=c6';"><span class="span-title">Sign
+                                    Up</span>
+                            </button>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="postnav">
+        <div class="navbar-section-inner postnav-section-inner">
+            <div class="insert-group insert-group-a">
+                <ul class="insert-101 insert-101-a navbar-nav">
+                    <li class="insert-102 insert-102-a nav-item "><a class="" href="https://www.songdex.com"><span class="song-top-img" src="img/songdex-bird.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 188">
+                                    <style>
+                                        .st5 {
+                                            fill: #1685be
+                                        }
+
+                                        .st6 {
+                                            fill: #3c4ea1
+                                        }
+
+                                        .st7 {
+                                            fill: #48b0e4
+                                        }
+                                    </style>
+                                    <g id="Layer_2">
+                                        <path class="st5" d="M146.4 53.2L60 .7l17.7 31.9 65.6 23.6z"></path>
+                                        <path class="st7" d="M182.5 51.6l-5.1 8.5 37.7-7.7zM.9 15.6l93.3 92 48.1-52.5z">
+                                        </path>
+                                        <path class="st5" d="M142.1 55L94 107.5l80-17.8z"></path>
+                                        <path class="st6" d="M142.1 55L174 89.7l8.7-38.1"></path>
+                                        <path class="st7" d="M94 107.5l33.7 9.6L174 89.7z"></path>
+                                        <path class="st6" d="M94 107.5l20.4 79.8 13.3-70.2z"></path>
+                                        <path fill="#80c8eb" d="M159.3 36.8l-17 18.3 40.2-3.5z"></path>
+                                    </g>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-b nav-item">
+                        <a class="" href="https://www.songdex.com"><span class="song-top-img" src="img/songdex-bird.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 188">
+                                    <style>
+                                        .st5 {
+                                            fill: #1685be
+                                        }
+
+                                        .st6 {
+                                            fill: #3c4ea1
+                                        }
+
+                                        .st7 {
+                                            fill: #48b0e4
+                                        }
+                                    </style>
+                                    <g id="Layer_2">
+                                        <path class="st5" d="M146.4 53.2L60 .7l17.7 31.9 65.6 23.6z"></path>
+                                        <path class="st7" d="M182.5 51.6l-5.1 8.5 37.7-7.7zM.9 15.6l93.3 92 48.1-52.5z">
+                                        </path>
+                                        <path class="st5" d="M142.1 55L94 107.5l80-17.8z"></path>
+                                        <path class="st6" d="M142.1 55L174 89.7l8.7-38.1"></path>
+                                        <path class="st7" d="M94 107.5l33.7 9.6L174 89.7z"></path>
+                                        <path class="st6" d="M94 107.5l20.4 79.8 13.3-70.2z"></path>
+                                        <path fill="#80c8eb" d="M159.3 36.8l-17 18.3 40.2-3.5z"></path>
+                                    </g>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-c nav-item">
+                        <a class="" href="https://www.cuetrak.com"><span class="cue-top-img" src="img/cuetrak-plane.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 188">
+                                    <style>
+                                        .st6 {
+                                            fill: #3c4ea1
+                                        }
+                                    </style>
+                                    <g id="Layer_1">
+                                        <path fill="#1685be" d="M78.2 111.7l13.6 47 34.8-34.1 88.6-105.9z"></path>
+                                        <path class="st6" d="M105.3 124.9l-13.5 33.8 55.6-37.5z"></path>
+                                        <path fill="#48b0e4" d="M215.2 18.7L105.3 124.9l91.9 44.4z"></path>
+                                        <path fill="#80c8eb" d="M153.6 78.2l61.6-59.5-18 150.6z"></path>
+                                        <path fill="#5dbbea" d="M.8 74.3l77.4 37.4 137-93z"></path>
+                                        <path fill="#2fa1db" d="M.8 74.3l77.4 37.4 59.6-40.4z"></path>
+                                        <path class="st6" d="M137.8 71.3l2 20.1 75.4-72.7z"></path>
+                                    </g>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-d nav-item">
+                        <a class="" href="https://www.cuetrak.com"><span class="cue-logotype" src="img/cuetrak-logotype.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 516.4 56.8">
+                                    <style>
+                                        .st0 {
+                                            fill: #333
+                                        }
+
+                                        .st2 {
+                                            display: inline
+                                        }
+
+                                        .st3 {
+                                            fill: #121212
+                                        }
+                                    </style>
+                                    <g id="Layer_5">
+                                        <g id="white-letters_1_">
+                                            <path class="st0" d="M50.2 43.2v8.7c-5.8 3.1-12.4 4.7-20 4.7-6.1 0-11.4-1.2-15.6-3.7-4.3-2.5-7.7-5.9-10.2-10.3-2.5-4.3-3.7-9-3.7-14.1 0-8 2.9-14.7 8.6-20.2C14.9 2.9 22 .2 30.3.2c5.8 0 12.2 1.5 19.3 4.5v8.5c-6.4-3.7-12.7-5.5-18.9-5.5-6.3 0-11.5 2-15.7 6-4.2 4-6.2 9-6.2 14.9 0 6 2 11 6.1 14.9 4.1 3.9 9.3 5.8 15.7 5.8 6.7 0 13.2-2 19.6-6.1zM119.5.9h7.9v31.2c0 4.2-.3 7.4-.9 9.6-.6 2.2-1.4 3.9-2.3 5.4-.9 1.4-2 2.7-3.3 3.8-4.4 3.8-10.1 5.6-17.1 5.6-7.2 0-12.9-1.9-17.2-5.6-1.3-1.2-2.4-2.4-3.3-3.9-.9-1.4-1.7-3.2-2.2-5.3-.6-2.1-.9-5.3-.9-9.8V.9H88v31.2c0 5.2.6 8.8 1.8 10.8 1.2 2 3 3.6 5.4 4.9 2.4 1.2 5.3 1.8 8.5 1.8 4.7 0 8.5-1.2 11.4-3.7 1.5-1.3 2.7-2.9 3.3-4.6.7-1.8 1-4.8 1-9.2V.9zM159.7.9h31.2v7h-23.3v16.8h22.5v7h-22.5v17.1h24.1v7h-31.9V.9zM216.8.8h45.9v7h-19.2v48.1h-7.9V7.8h-18.9v-7zM291.8 55.9V.9h13.8c5.6 0 10 1.4 13.2 4.1 3.3 2.8 4.9 6.5 4.9 11.2 0 3.2-.8 6-2.4 8.3-1.6 2.3-3.9 4.1-6.9 5.2 1.8 1.2 3.5 2.7 5.2 4.7 1.7 2 4 5.5 7.1 10.4 1.9 3.1 3.5 5.5 4.6 7l2.9 3.9h-9.4l-2.4-3.6c-.1-.1-.2-.4-.5-.7l-1.5-2.2-2.4-4-2.6-4.3c-1.6-2.3-3.1-4.1-4.5-5.4-1.4-1.3-2.6-2.3-3.7-2.9-1.1-.6-2.9-.9-5.5-.9h-2v23.9h-7.9zM302 7.6h-2.4V25h3c4 0 6.7-.3 8.2-1 1.5-.7 2.6-1.7 3.5-3.1.8-1.4 1.2-2.9 1.2-4.7 0-1.7-.5-3.3-1.4-4.7-.9-1.4-2.2-2.4-3.9-3-1.6-.6-4.3-.9-8.2-.9zM379.2.6h5.5l24.7 55.3h-8.1L394 39.6h-23.5l-6.9 16.3h-8.1L379.2.6zm11.5 32l-8.9-19.9-8.2 19.9h17.1zM462.3.9h9.8L448.3 27l32.8 28.9h-13.8l-28.1-27.2v27.2h-7.9V.9h7.9v25.2L462.3.9z">
+                                            </path>
+                                            <g>
+                                                <path class="st0" d="M515.7 12.9c0 6.6-5.4 11.5-11.8 11.5s-11.8-4.9-11.8-11.5 5.4-11.5 11.8-11.5c6.5 0 11.8 5 11.8 11.5zm-2.1 0c0-5.4-4.5-9.5-9.7-9.5-5.2 0-9.7 4.1-9.7 9.5s4.5 9.5 9.7 9.5c5.2.1 9.7-4.1 9.7-9.5zm-7.9 1.4l3.4 4H507l-3.2-3.9h-2.3v3.9h-1.6V7.1h4.7c2.4 0 4.2 1.5 4.2 3.8-.1 1.7-1.3 3.1-3.1 3.4zm-1.1-1.3c1.4 0 2.5-.9 2.5-2.2 0-1.3-1.1-2.2-2.5-2.2h-3.1V13h3.1z">
+                                                </path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-e nav-item">
+                        <a class="selected-logo" href=""><span class="mri-top-img" src="img/optimized-mri-logo.svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374.8 167">
+                                    <style>
+                                        .st0-mri {
+                                            display: none
+                                        }
+
+                                        .st2-mri {
+                                            fill: #2fa1db
+                                        }
+
+                                        .st3-mri {
+                                            fill: #33437f
+                                        }
+
+                                        .st4-mri {
+                                            fill: #80c8eb
+                                        }
+
+                                        .st5-mri {
+                                            display: none;
+                                            fill: #fff
+                                        }
+                                    </style>
+                                    <g id="Layer_1">
+                                        <path d="M375.9 154.7h-2.4V153h6.8v1.7h-2.4v6.9H376v-6.9z" fill="#33437f">
+                                        </path>
+                                        <path class="st2-mri" d="M309.6 90.5V39.4H320v51.1h-10.4z"></path>
+                                        <path class="st3-mri" d="M1 32.2h19.4l13.4 38.1h.2l13.5-38.1h19.4v58.3H54.1V45.8h-.2L38.6 90.5h-9.8L14 45.8h-.2v44.7H1V32.2zM124.8 68c0 13.8-8.4 24-24.6 24C84 92 75.6 81.8 75.6 68V32.2h12.9v35.3c0 7.2 4.9 12.6 11.8 12.6 6.8 0 11.7-5.4 11.7-12.6V32.2h12.9V68zM165.5 46.4c-2.1-2.6-6.2-3.9-9.3-3.9-3.6 0-8.7 1.7-8.7 6 0 10.6 26.9 3.8 26.9 24.2 0 13-10.5 19.2-22.5 19.2-7.5 0-14.1-2.2-19.6-7.3l9.1-10.1c2.6 3.5 6.9 5.5 11.2 5.5 4.2 0 8.9-2 8.9-6.1 0-10.7-27.4-4.9-27.4-24.4 0-12.4 10.8-18.9 22.2-18.9 6.6 0 12.9 1.7 17.9 6.1l-8.7 9.7zM183.8 32.2h12.9v58.3h-12.9V32.2zM246.5 47.3c-2.6-3-6.3-4.8-11-4.8-9.7 0-16.9 7.9-16.9 18.8s7.2 18.8 16.5 18.8c5.2 0 9.4-2.3 12-6.3l10.7 8c-4.9 6.9-13.1 10.1-21.1 10.1-18.2 0-31.5-11.9-31.5-30.6 0-18.7 13.3-30.6 31.5-30.6 6.5 0 14.7 2.2 19.7 8.6l-9.9 8zM1 104.1h22.6c11.9 0 22 4.1 22 17.7 0 8.2-4.4 14.5-12.6 16l14.8 24.6H32.4l-12.2-23.3h-6.3v23.3H1v-58.3zm12.8 24.1h7.6c4.7 0 10.8-.2 10.8-6.5 0-5.8-5.3-6.8-10-6.8h-8.4v13.3zM56.7 104.1h39.6V116H69.5v10.9h25.3v11.9H69.5v11.9h28.3v11.9H56.7v-58.5zM109 104.1h21.7c12.1 0 22.2 3.9 22.2 17.7 0 13.7-9.3 17.9-21.6 17.9h-9.4v22.7H109v-58.3zm12.9 24.7h8.6c4.5 0 9.1-1.6 9.1-7 0-6-6.1-6.8-11-6.8H122v13.8zM189.2 102.6c18.2 0 31.5 11.9 31.5 30.6 0 18.7-13.3 30.6-31.5 30.6s-31.5-11.9-31.5-30.6c.1-18.7 13.3-30.6 31.5-30.6zm0 49.4c11 0 18.1-7.9 18.1-18.8s-7.2-18.8-18.1-18.8c-11 0-18.1 7.9-18.1 18.8s7.2 18.8 18.1 18.8zM229.4 104.1H252c11.9 0 22 4.1 22 17.7 0 8.2-4.4 14.5-12.6 16l14.8 24.6h-15.4l-12.2-23.3h-6.3v23.3h-12.8v-58.3zm12.9 24.1h7.6c4.7 0 10.8-.2 10.8-6.5 0-5.8-5.3-6.8-10-6.8h-8.4v13.3zM294.2 115.4h-16.6V104h46.1v11.4h-16.6v47h-12.9v-47zM359.8 118.3c-2.1-2.6-6.2-3.9-9.3-3.9-3.6 0-8.6 1.6-8.6 6 0 10.6 26.9 3.8 26.9 24.2 0 13-10.5 19.2-22.5 19.2-7.5 0-14.1-2.2-19.6-7.3l9.1-10.1c2.6 3.5 6.9 5.5 11.2 5.5 4.2 0 8.9-2 8.9-6.1 0-10.7-27.4-4.9-27.4-24.4 0-12.4 10.8-18.9 22.2-18.9 6.6 0 12.9 1.7 17.9 6.1l-8.8 9.7z">
+                                        </path>
+                                        <g>
+                                            <path class="st3-mri" d="M374.1 161.4c0 2.7-2.1 4.8-4.9 4.8-2.7 0-4.9-2.1-4.9-4.8 0-2.6 2.2-4.8 4.9-4.8 2.8 0 4.9 2.1 4.9 4.8zm-8.5 0c0 2.1 1.6 3.8 3.7 3.8s3.6-1.7 3.6-3.8c0-2.1-1.5-3.8-3.7-3.8-2.1 0-3.6 1.7-3.6 3.8zm2.9 2.5h-1.1v-4.8c.4-.1 1-.1 1.8-.1.9 0 1.3.1 1.7.3.3.2.5.6.5 1 0 .5-.4.9-1 1.1v.1c.5.2.7.5.9 1.2.1.7.2 1 .3 1.2h-1.2c-.1-.2-.2-.6-.4-1.2-.1-.5-.4-.8-1-.8h-.5v2zm0-2.7h.5c.6 0 1.1-.2 1.1-.7 0-.4-.3-.7-1-.7-.3 0-.5 0-.6.1v1.3z">
+                                            </path>
+                                        </g>
+                                        <g>
+                                            <path class="st2-mri" d="M350.5 90.5V4.4h10.4v86.1h-10.4z"></path>
+                                        </g>
+                                        <g>
+                                            <path class="st4-mri" d="M330.3 90.5V23.8h10.4v66.7h-10.4z"></path>
+                                        </g>
+                                        <g>
+                                            <path class="st4-mri" d="M289.9 90.5V23.8h10.4v66.7h-10.4z"></path>
+                                        </g>
+                                        <g>
+                                            <path class="st2-mri" d="M269.7 90.5V4.4h10.4v86.1h-10.4z"></path>
+                                        </g>
+                                        <path class="st5-mri" d="M-21 55.4H1.2v19.1H-21z"></path>
+                                        <path class="st5-mri" d="M1 3.5h183.8v77.4H1z"></path>
+                                        <path class="st0-mri" d="M368.7 137.1h6.1v18.7h-6.1zM-5.1 137.1H1v18.7h-6.1z">
+                                        </path>
+                                    </g>
+                                </svg>
+                            </span></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="insert-group insert-group-b">
+                <ul class="insert-101 insert-101-a navbar-nav">
+                    <li class="insert-102 insert-102-a nav-item ">
+                        <a target="_blank" href="https://www.facebook.com/MusicReportsInc"><span class="" src="img/iconmonstr-facebook-1.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M9 8H6v4h3v12h5V12h3.642L18 8h-4V6.333C14 5.378 14.192 5 15.115 5H18V0h-3.808C10.596 0 9 1.583 9 4.615V8z">
+                                    </path>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-b nav-item">
+                        <a target="_blank" href="https://www.instagram.com/MusicReportsInc"><span class="" src="img/iconmonstr-instagram-11.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z">
+                                    </path>
+                                </svg></span></a>
+                    </li>
+                    <li class="insert-102 insert-102-c nav-item">
+                        <a target="_blank" href="https://www.twitter.com/MusicReportsInc"><span class="" src="img/iconmonstr-twitter-1.svg"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M24 4.557a9.83 9.83 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724 9.864 9.864 0 0 1-3.127 1.195 4.916 4.916 0 0 0-3.594-1.555c-3.179 0-5.515 2.966-4.797 6.045A13.978 13.978 0 0 1 1.671 3.149a4.93 4.93 0 0 0 1.523 6.574 4.903 4.903 0 0 1-2.229-.616c-.054 2.281 1.581 4.415 3.949 4.89a4.935 4.935 0 0 1-2.224.084 4.928 4.928 0 0 0 4.6 3.419A9.9 9.9 0 0 1 0 19.54a13.94 13.94 0 0 0 7.548 2.212c9.142 0 14.307-7.721 13.995-14.646A10.025 10.025 0 0 0 24 4.557z">
+                                    </path>
+                                </svg></span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</header>
+    <div id="home" class="jumbotron jumbotron-fluid">
+        <div class="jumbotron-sec-inner">
+            <div class="jumbotron-content">
+                <div class="">
+                    <div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </div>
+                <h1 class="headline">The World’s Most Advanced Rights Administration Platform</h1>
+                <p class="">Providing global copyright and data solutions to creators, owners, and users of music.</p>
+                <!--<div id="item-wrapper-button-get-started" class="item-wrapper form-group form-group-button">
+                    <button id="item-button-get-started" class="buttons btn btn-green-pill" onclick="launchPopupV9943()"
+                        title="Learn More"><span class="span-title">Get
+                            Started</span>
+                    </button>
+                </div>-->
+                <div class=""></div>
+                <div class=""></div>
+            </div>
+        </div>
+    </div>
+    <section id="section-1" class=" section sec-1">
+        <div class="section-inner">
+            <div class="kard-deck kard-deck-101 kard-deck-101-a">
+                <div class="kard kard-inner">
+                    <div class="hidden kard-header kard-header-101"></div>
+                    <div class="kard-body kard-body-101">
+                        <div class="kard-deck kard-deck-102 kard-deck-102-a">
+                            <div class="kard kard-inner">
+                                <div class="kard-header kard-header-102">
+                                    <h4 class="headline k-header-insert-headline k-header-insert k-header-insert-a">
+                                        Join 500+ of the world’s largest copyright users and owners
+                                    </h4>
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="k-body-insert-scroller k-body-insert ">
+                                        <div class="scroll-container">
+                                            <div class="qode_carousels_holder">
+                                                <div class="qode_carousels">
+                                                    <div class="arrowcontain alc arrow-left cursor-pointer">
+                                                        <svg width="1em" height="1em" viewBox="0 0 16 16"
+                                                            class="bi bi-chevron-compact-left" fill="currentColor"
+                                                            xmlns="http://www.w3.org/2000/svg">
+                                                            <path fill-rule="evenodd"
+                                                                d="M9.224 1.553a.5.5 0 0 1 .223.67L6.56 8l2.888 5.776a.5.5 0 1 1-.894.448l-3-6a.5.5 0 0 1 0-.448l3-6a.5.5 0 0 1 .67-.223z" />
+                                                        </svg>
+                                                    </div>
+                                                    <div class="caroufredsel_wrapper">
+                                                        <ul class="slides">
+                                                            <li class="item">
+                                                                <div class="">
+                                                                    <a class="" target="_blank"
+                                                                        href="https://www.netflix.com/"><img
+                                                                            src="img/logos/netflix_slider_logo.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.hbo.com/"><img
+                                                                            src="img/logos/HBO_slider.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.pandora.com/"><img
+                                                                            src="img/logos/pandora_lb.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.spotify.com/us/"><img
+                                                                            src="img/logos/spotify.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.amazon.com"><img
+                                                                            src="img/logos/amazon.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.apple.com/itunes/"><img
+                                                                            src="img/logos/itunes.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://tidal.com/"><img
+                                                                            src="img/logos/tidal.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.onepeloton.com/"><img
+                                                                            src="img/logos/peloton.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://soundcloud.com/"><img
+                                                                            src="img/logos/soundcloud.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.variis.com/"><img
+                                                                            src="img/logos/equinox.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://sbgi.net/"><img
+                                                                            src="img/logos/sbg.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.cbs.com/all-access/"><img
+                                                                            src="img/logos/cbs.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.deezer.com/us/"><img
+                                                                            src="img/logos/deezer.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+                                                            <li class="item">
+                                                                <div class=""><a class="" target="_blank"
+                                                                        href="https://www.microsoft.com/en-us"><img
+                                                                            src="img/logos/microsoft.png"
+                                                                            alt="carousel image"></a><span class="">
+                                                                </div>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+                                                    <div class="arrow-right cursor-pointer">
+                                                        <svg width="1em" height="1em" viewBox="0 0 16 16"
+                                                            class="bi bi-chevron-compact-right" fill="currentColor"
+                                                            xmlns="http://www.w3.org/2000/svg">
+                                                            <path fill-rule="evenodd"
+                                                                d="M6.776 1.553a.5.5 0 0 1 .671.223l3 6a.5.5 0 0 1 0 .448l-3 6a.5.5 0 1 1-.894-.448L9.44 8 6.553 2.224a.5.5 0 0 1 .223-.671z" />
+                                                        </svg>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hidden kard-footer kard-footer-101"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section-2" class="section sec-2">
+        <div class="section-inner">
+            <div class="kard-deck kard-deck-101 kard-deck-101-a">
+                <div class="kard kard-inner">
+                    <div class="hidden kard-header kard-header-101">
+
+                    </div>
+                    <div class="kard-body kard-body-101">
+                        <div class="kard-deck kard-deck-102 kard-deck-102-a">
+                            <div class="kard-has-fubar kard kard-inner">
+                                <div class="kard-header kard-header-102 hidden">
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="k-body-insert-songdex k-body-insert-img k-body-insert k-body-insert-a">
+                                        <img src="img/songdex_marketplace.png">
+                                        <div class="insert-101 insert-101-a">
+                                            <h3 class="headline insert-102 insert-102-a">Marketplace</h3>
+                                        </div>
+                                        <!-- <div class="song-top-img" src="img/songdex_marketplace.png">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 188">
+                                                <style>
+                                                    .st5 {
+                                                        fill: #1685be
+                                                    }
+
+                                                    .st6 {
+                                                        fill: #3c4ea1
+                                                    }
+
+                                                    .st7 {
+                                                        fill: #48b0e4
+                                                    }
+                                                </style>
+                                                <g id="Layer_2">
+                                                    <path class="st5" d="M146.4 53.2L60 .7l17.7 31.9 65.6 23.6z"></path>
+                                                    <path class="st7"
+                                                        d="M182.5 51.6l-5.1 8.5 37.7-7.7zM.9 15.6l93.3 92 48.1-52.5z">
+                                                    </path>
+                                                    <path class="st5" d="M142.1 55L94 107.5l80-17.8z"></path>
+                                                    <path class="st6" d="M142.1 55L174 89.7l8.7-38.1"></path>
+                                                    <path class="st7" d="M94 107.5l33.7 9.6L174 89.7z"></path>
+                                                    <path class="st6" d="M94 107.5l20.4 79.8 13.3-70.2z"></path>
+                                                    <path fill="#80c8eb" d="M159.3 36.8l-17 18.3 40.2-3.5z"></path>
+                                                </g>
+                                            </svg>
+                                        </div> -->
+                                        <!-- <div class="song-logotype" src="img/songdex-logotype.svg">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 547.7 57.6">
+                                                <style>
+                                                    .st0 {
+                                                        fill: #333;
+                                                        display: block
+                                                    }
+                                                </style>
+                                                <g id="Layer_6">
+                                                    <path class="st0"
+                                                        d="M547.1 13.3c0 6.6-5.4 11.5-11.8 11.5s-11.8-4.9-11.8-11.5 5.4-11.5 11.8-11.5 11.8 5 11.8 11.5zm-2.1 0c0-5.4-4.5-9.5-9.7-9.5s-9.7 4.1-9.7 9.5 4.5 9.5 9.7 9.5 9.7-4.1 9.7-9.5zm-7.9 1.4l3.4 4h-2.1l-3.2-3.9h-2.3v3.9h-1.6V7.5h4.7c2.4 0 4.2 1.5 4.2 3.8-.1 1.7-1.4 3.1-3.1 3.4zm-1.2-1.3c1.4 0 2.5-.9 2.5-2.2 0-1.3-1.1-2.2-2.5-2.2h-3.1v4.4h3.1zM16.8 33.3l-6-3.6c-3.7-2.3-6.4-4.5-8-6.8C1.2 20.7.4 18.1.4 15.3.5 10.9 2 7.4 5 4.7 8 2 11.9.7 16.7.7c4.6 0 8.8 1.3 12.6 3.9v8.9c-4-3.8-8.2-5.7-12.8-5.7-2.6 0-4.7.6-6.3 1.8-1.7 1.2-2.5 2.7-2.5 4.6 0 1.6.6 3.2 1.8 4.6 1.2 1.4 3.2 2.9 5.9 4.5l6 3.6c6.7 4 10 9.1 10 15.3 0 4.4-1.5 8-4.4 10.7-2.9 2.8-6.8 4.1-11.5 4.1-5.4 0-10.4-1.7-14.8-5V42c4.3 5.3 9.2 8 14.7 8 2.5 0 4.5-.7 6.1-2.1 1.6-1.4 2.5-3.1 2.5-5.1 0-3.4-2.4-6.5-7.2-9.5zM88.8.6c8.5 0 15.5 2.7 21.2 8.1 5.6 5.4 8.5 12.1 8.5 20.2S115.7 43.7 110 49c-5.7 5.3-12.9 8-21.5 8-8.3 0-15.2-2.7-20.7-8s-8.3-12-8.3-19.9c0-8.2 2.8-15 8.3-20.4C73.3 3.3 80.3.6 88.8.6zm.3 7.5c-6.3 0-11.4 2-15.5 5.9s-6.1 8.9-6.1 15c0 5.9 2 10.8 6.1 14.8 4.1 3.9 9.1 5.9 15.2 5.9s11.2-2 15.3-6c4.1-4 6.1-9 6.1-15 0-5.8-2-10.7-6.1-14.7-4-4-9-5.9-15-5.9zM193.6 1.4h7.5v54.9h-6.8L157.6 14v42.3h-7.4V1.4h6.4l37 42.6V1.4zM264.3 29.2h18.4v23.3c-6.8 2.9-13.5 4.4-20.1 4.4-9.1 0-16.4-2.7-21.8-8-5.4-5.3-8.2-11.8-8.2-19.6 0-8.2 2.8-15 8.4-20.5 5.6-5.4 12.7-8.2 21.2-8.2 3.1 0 6 .3 8.8 1 2.8.7 6.3 1.9 10.5 3.7v8c-6.5-3.8-13-5.7-19.5-5.7-6 0-11.1 2-15.2 6.1s-6.2 9.1-6.2 15c0 6.2 2.1 11.3 6.2 15.3s9.4 5.9 15.9 5.9c3.1 0 6.9-.7 11.3-2.2l.7-.2V36.2h-10.6v-7zM316.1 56.2V1.4h18.5c7.5 0 13.4 1.1 17.7 3.4 4.3 2.2 7.8 5.5 10.4 9.9 2.6 4.4 3.9 9.1 3.9 14.2 0 3.7-.7 7.2-2.1 10.5-1.4 3.4-3.4 6.3-6.1 8.8-2.7 2.6-5.8 4.6-9.3 5.9-2.1.8-4 1.4-5.7 1.6-1.7.3-5 .4-9.9.4h-17.4zm17.6-47.8h-9.8v40.8H334c3.9 0 7-.3 9.2-.8 2.2-.5 4-1.2 5.4-2 1.5-.8 2.8-1.8 4-3 3.9-3.9 5.8-8.9 5.8-14.9 0-5.9-2-10.7-6-14.4-1.5-1.4-3.1-2.5-5-3.4-1.9-.9-3.7-1.5-5.4-1.8-1.8-.4-4.5-.5-8.3-.5zM398.1 1.4h31.1v7H406v16.7h22.5v7H406v17.1h24v7h-31.9V1.4zM499.9 1.4h9.5l-22 26.5L511 56.3h-9.5l-18.7-22.8-18.9 22.8h-9.6l23.6-28.4L456 1.4h9.6l17.2 21 17.1-21z">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <div>
+                                            <h3 class="headline">Marketplace</h3>
+                                        </div> -->
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102">
+                                    <!-- <h3 class="headline">Marketplace</h3> -->
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="kard-deck kard-deck-102 kard-deck-102-b">
+                            <div class="kard kard-inner">
+                                <div class="kard-header kard-header-102 hidden">
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="mixin-feature-kard-turn-left k-body-insert insert-101 insert-101-b">
+                                        <div class="feature-kard-header insert-102 insert-102-a">
+                                            <h3 class="headline insert-103 insert-103-a">Get Licensed</h3>
+                                        </div>
+                                        <div class="feature-kard-body insert-102 insert-102-b">
+                                            <div class="text text-a">License thousands of</br> music publishers in days!
+                                            </div>
+                                            <a href="javascript:void()" class="btn btn-primary-green"
+                                                onclick="getPage('songdex_marketplace')">Get
+                                                Started
+                                                Now</a>
+                                        </div>
+                                        <div class="feature-footer hidden insert-102 insert-102-c">
+                                            <ul class="list-group list-group-flush insert-103 insert-103-a">
+                                                <li class="list-group-item">1</li>
+                                            </ul>
+                                            <div class="kard-link-group insert-103 insert-103-b">
+                                                <a href="#" class="kard-link">Card link</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="hidden kard-footer kard-footer-101">
+                    </div>
+                </div>
+            </div>
+    </section>
+    <section id="section-3" class="section sec-3">
+        <div class="section-inner">
+            <div class="kard-deck kard-deck-101 kard-deck-101-a">
+                <div class="kard kard-inner">
+                    <div class="hidden kard-header kard-header-101">
+                        <div class="k-header-insert insert-101 insert-101-a">
+                        </div>
+                        <div class="k-header-insert-headline k-header-insert insert-101 insert-101-b">
+
+                        </div>
+                    </div>
+                    <div class="kard-body kard-body-101">
+                        <div class="kard-deck kard-deck-102 kard-deck-102-a">
+                            <div class="kard kard-inner">
+                                <div class="hidden kard-header kard-header-102">
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="mixin-feature-kard-turn-left k-body-insert insert-101 insert-101-b">
+                                        <div class="feature-kard-header insert-102 insert-102-a">
+                                            <h3 class="headline insert-103 insert-103-a">Pay Royalties</h3>
+                                        </div>
+                                        <div class="feature-kard-body insert-102 insert-102-b">
+                                            <div class="text text-a">Calculate high-volume royalties. Send reports and
+                                                make payments to thousands of rights owners in 100+ territories</div>
+                                            <a href="javascript:void()" onclick="getPage('songdex_pay')"
+                                                class="btn btn-primary-green">
+                                                <svg width="1em" height="1em" viewBox="0 0 16 16"
+                                                    class="bi bi-arrow-right-short" fill="currentColor"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd"
+                                                        d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
+                                                </svg>
+                                            </a>
+                                        </div>
+                                        <div class="feature-footer hidden insert-102 insert-102-c">
+                                            <ul class="list-group list-group-flush insert-103 insert-103-a">
+                                                <li class="list-group-item">1</li>
+                                            </ul>
+                                            <div class="kard-link-group insert-103 insert-103-b">
+                                                <a href="#" class="kard-link">Card link</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102"></div>
+                            </div>
+
+                        </div>
+                        <div class="kard-deck kard-deck-102 kard-deck-102-b">
+                            <div class="kard">
+                                <div class="kard-header">
+                                    <div class="k-header-insert-headline k-header-insert insert-101 insert-101-b">
+                                        <h3 class="headline">Songdex Pay</h3>
+                                    </div>
+                                </div>
+                                <div class="kard-body">
+                                    <div class="k-body-insert-img k-body-insert k-body-insert-a">
+                                        <h3 class="headline">Songdex Pay</h3>
+                                        <img src="img/songdex_pay.png">
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hidden kard-footer kard-footer-101"></div>
+                </div>
+            </div>
+    </section>
+    <section id="section-4" class="section sec-4">
+        <div class="section-inner">
+            <div class="kard-deck kard-deck-101 kard-deck-101-a">
+                <div class="kard kard-inner">
+                    <div class="hidden kard-header kard-header-101">
+                        <div class="k-header-insert insert-101 insert-101-a">
+
+                        </div>
+                        <div class="k-header-insert insert-101 insert-101-b"></div>
+                    </div>
+                    <div class="kard-body kard-body-101">
+                        <div class="kard-deck kard-deck-102 kard-deck-102-a">
+                            <div class="kard kard-inner">
+                                <div class="hidden kard-has-hubar kard-header kard-header-102">
+                                    <div class="k-header-insert-ubar k-header-insert k-header-insert-a">
+
+                                    </div>
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="k-body-insert-img k-body-insert k-body-insert-a">
+                                        <h3 class="headline">Songdex View</h3>
+                                        <img src="img/songdex_view.png">
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="kard-deck kard-deck-102 kard-deck-102-b">
+                            <div class="kard kard-inner">
+                                <div class="kard-header kard-header-102 hidden">
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="mixin-feature-kard-turn-left k-body-insert insert-101 insert-101-b">
+                                        <div class="feature-kard-header insert-102 insert-102-a">
+                                            <h3 class="headline insert-103 insert-103-a">Data &amp; Analytics</h3>
+                                        </div>
+                                        <div class="feature-kard-body insert-102 insert-102-b">
+                                            <div class="text text-a">Unlock unprecedented business intelligence and take
+                                                control of your music data ecosystem</div>
+                                            <a href="javascript:void()" onclick="getPage('songdex_view')"
+                                                class="btn btn-primary-green">
+                                                <svg width="1em" height="1em" viewBox="0 0 16 16"
+                                                    class="bi bi-arrow-right-short" fill="currentColor"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd"
+                                                        d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z">
+                                                    </path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                        <div class="feature-footer hidden insert-102 insert-102-c">
+                                            <ul class="list-group list-group-flush insert-103 insert-103-a">
+                                                <li class="list-group-item">1</li>
+                                            </ul>
+                                            <div class="kard-link-group insert-103 insert-103-b">
+                                                <a href="#" class="kard-link">Card link</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="hidden kard-footer kard-footer-101"></div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section id="section-5" class="section sec-5">
+        <div class="section-inner">
+            <div class="kard-deck kard-deck-101 kard-deck-101-a">
+                <div class="kard kard-inner">
+                    <div class="hidden kard-header kard-header-101">
+                    </div>
+                    <div class="kard-body kard-body-101">
+                        <div class="kard-deck kard-deck-102 kard-deck-102-a">
+                            <div class="kard kard-inner">
+                                <div class="hidden kard-header kard-header-102">
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="mixin-feature-kard-turn-left k-body-insert insert-101 insert-101-b">
+                                        <div class="feature-kard-header insert-102 insert-102-a">
+                                            <h3 class="headline insert-103 insert-103-a">Audiovisual</h3>
+                                            <h3 class="headline insert-103 insert-103-a">Music Data Services</h3>
+                                        </div>
+                                        <div class="feature-kard-body insert-102 insert-102-b">
+                                            <div class="text text-a">
+                                                Experience the world's most powerful cue sheet management system and
+                                                unlock valuable direct licensing opportunities
+                                            </div>
+                                            <!-- <a href="javascript:void()" onclick="getPage('cuetrak')"
+                                                class="btn btn-primary-green">
+                                                <svg width="1em" height="1em" viewBox="0 0 16 16"
+                                                    class="bi bi-arrow-right-short" fill="currentColor"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd"
+                                                        d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
+                                                </svg>
+                                            </a> -->
+                                            <a href="javascript:void()" onclick="getPage('cuetrak')"
+                                                class="btn btn-primary-green">
+                                                <svg width="1em" height="1em" viewBox="0 0 16 16"
+                                                    class="bi bi-arrow-right-short" fill="currentColor"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd"
+                                                        d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z">
+                                                    </path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                        <div class="feature-footer hidden insert-102 insert-102-c">
+                                            <ul class="list-group list-group-flush insert-103 insert-103-a">
+                                                <li class="list-group-item">1</li>
+                                            </ul>
+                                            <div class="kard-link-group insert-103 insert-103-b">
+                                                <a href="#" class="kard-link">Card link</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102"></div>
+                            </div>
+
+                        </div>
+                        <div class="kard-deck kard-deck-102 kard-deck-102-b">
+                            <div class="kard kard-inner">
+                                <div class="kard-header kard-header-102 hidden">
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="k-body-insert-cuetrak k-body-insert-img k-body-insert k-body-insert-a">
+                                        <img src="img/cuetrak_ppl.png">
+                                        <div class="insert-101 insert-101-a">
+                                            <h3 class="headline insert-102 insert-102-a">Cuetrak<sup>&reg</sup> &</h3>
+                                            <h3 class="headline insert-102 insert-102-b">Per Program Licensing</h3>
+                                        </div>
+                                        <!-- <div class="cue-top-img" src="img/cuetrak-plane.svg">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 188">
+                                                <style>
+                                                    .st6 {
+                                                        fill: #3c4ea1
+                                                    }
+                                                </style>
+                                                <g id="Layer_1">
+                                                    <path fill="#1685be" d="M78.2 111.7l13.6 47 34.8-34.1 88.6-105.9z">
+                                                    </path>
+                                                    <path class="st6" d="M105.3 124.9l-13.5 33.8 55.6-37.5z"></path>
+                                                    <path fill="#48b0e4" d="M215.2 18.7L105.3 124.9l91.9 44.4z"></path>
+                                                    <path fill="#80c8eb" d="M153.6 78.2l61.6-59.5-18 150.6z"></path>
+                                                    <path fill="#5dbbea" d="M.8 74.3l77.4 37.4 137-93z"></path>
+                                                    <path fill="#2fa1db" d="M.8 74.3l77.4 37.4 59.6-40.4z"></path>
+                                                    <path class="st6" d="M137.8 71.3l2 20.1 75.4-72.7z"></path>
+                                                </g>
+                                            </svg>
+                                            </span>
+                                        </div> -->
+                                        <!-- <h3 class="headline">Cuetrak &</h3>
+                                        <h3 class="headline">Per Program Licensing</h3> -->
+                                    </div>
+                                    <div class="hidden kard-footer kard-footer-102">
+
+                                    </div>
+
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hidden kard-footer kard-footer-101">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section-6" class="section sec-6">
+        <div class="section-inner">
+            <div class="kard-deck kard-deck-101 kard-deck-101-a">
+                <div class="kard kard-inner">
+                    <div class="hidden kard-header kard-header-101"></div>
+                    <div class="kard-body kard-body-101">
+                        <div class="kard-deck kard-deck-102 kard-deck-102-a">
+                            <div class="kard kard-inner">
+                                <div class="kard-header kard-header-102 hidden">
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="k-body-insert-img k-body-insert k-body-insert-a">
+                                        <img src="img/music_publishers.png">
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102"></div>
+                            </div>
+
+                        </div>
+                        <div class="kard-deck kard-deck-102 kard-deck-102-b">
+                            <div class="kard kard-inner">
+                                <div class="kard-header kard-header-102 hidden">
+                                </div>
+                                <div class="kard-body kard-body-102">
+                                    <div class="mixin-feature-kard-turn-left k-body-insert insert-101 insert-101-b">
+                                        <div class="feature-kard-header insert-102 insert-102-a">
+                                            <h3 class="headline insert-103 insert-103-a">Music Publishers</h3>
+                                        </div>
+                                        <div class="feature-kard-body insert-102 insert-102-b">
+                                            <div class="text text-a">I’m a music publisher and I </br> want to gain
+                                                access to the</br> Songdex Pay</br> portal.</div>
+                                            <a href="javascript:void()" onclick="getPage('music_publishers')"
+                                                class="btn btn-primary-green">
+                                                <svg width="1em" height="1em" viewBox="0 0 16 16"
+                                                    class="bi bi-arrow-right-short" fill="currentColor"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd"
+                                                        d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
+                                                </svg>
+                                            </a>
+                                        </div>
+                                        <div class="feature-footer hidden insert-102 insert-102-c">
+                                            <ul class="list-group list-group-flush insert-103 insert-103-a">
+                                                <li class="list-group-item">1</li>
+                                            </ul>
+                                            <div class="kard-link-group insert-103 insert-103-b">
+                                                <a href="#" class="kard-link">Card link</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hidden kard-footer kard-footer-102"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="hidden kard-footer kard-footer-101"></div>
+                </div>
+            </div>
+    </section>
+
+    <section id="section-7" class="section sec-7 mixin-mri-webpage-footer">
+        <div class="section-inner">
+            <div class="kard-deck kard-deck-101 kard-deck-101-a">
+                <div class="kard">
+                    <div class="kard-header">
+                    </div>
+                    <div class="kard-body">
+                        <div class="kard-deck kard-deck-103 kard-deck-103-a">
+                            <div class="kard">
+                                <div class="kard-header">
+
+                                </div>
+                                <div class="kard-body">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374.8 167">
+                                        <style>
+                                            .st0-mri {
+                                                display: none
+                                            }
+
+                                            .st2-mri {
+                                                fill: #2fa1db
+                                            }
+
+                                            .st3-mri {
+                                                fill: #33437f
+                                            }
+
+                                            .st4-mri {
+                                                fill: #80c8eb
+                                            }
+
+                                            .st5-mri {
+                                                display: none;
+                                                fill: #fff
+                                            }
+                                        </style>
+                                        <g id="Layer_1">
+                                            <path d="M375.9 154.7h-2.4V153h6.8v1.7h-2.4v6.9H376v-6.9z" fill="#33437f">
+                                            </path>
+                                            <path class="st2-mri" d="M309.6 90.5V39.4H320v51.1h-10.4z"></path>
+                                            <path class="st3-mri"
+                                                d="M1 32.2h19.4l13.4 38.1h.2l13.5-38.1h19.4v58.3H54.1V45.8h-.2L38.6 90.5h-9.8L14 45.8h-.2v44.7H1V32.2zM124.8 68c0 13.8-8.4 24-24.6 24C84 92 75.6 81.8 75.6 68V32.2h12.9v35.3c0 7.2 4.9 12.6 11.8 12.6 6.8 0 11.7-5.4 11.7-12.6V32.2h12.9V68zM165.5 46.4c-2.1-2.6-6.2-3.9-9.3-3.9-3.6 0-8.7 1.7-8.7 6 0 10.6 26.9 3.8 26.9 24.2 0 13-10.5 19.2-22.5 19.2-7.5 0-14.1-2.2-19.6-7.3l9.1-10.1c2.6 3.5 6.9 5.5 11.2 5.5 4.2 0 8.9-2 8.9-6.1 0-10.7-27.4-4.9-27.4-24.4 0-12.4 10.8-18.9 22.2-18.9 6.6 0 12.9 1.7 17.9 6.1l-8.7 9.7zM183.8 32.2h12.9v58.3h-12.9V32.2zM246.5 47.3c-2.6-3-6.3-4.8-11-4.8-9.7 0-16.9 7.9-16.9 18.8s7.2 18.8 16.5 18.8c5.2 0 9.4-2.3 12-6.3l10.7 8c-4.9 6.9-13.1 10.1-21.1 10.1-18.2 0-31.5-11.9-31.5-30.6 0-18.7 13.3-30.6 31.5-30.6 6.5 0 14.7 2.2 19.7 8.6l-9.9 8zM1 104.1h22.6c11.9 0 22 4.1 22 17.7 0 8.2-4.4 14.5-12.6 16l14.8 24.6H32.4l-12.2-23.3h-6.3v23.3H1v-58.3zm12.8 24.1h7.6c4.7 0 10.8-.2 10.8-6.5 0-5.8-5.3-6.8-10-6.8h-8.4v13.3zM56.7 104.1h39.6V116H69.5v10.9h25.3v11.9H69.5v11.9h28.3v11.9H56.7v-58.5zM109 104.1h21.7c12.1 0 22.2 3.9 22.2 17.7 0 13.7-9.3 17.9-21.6 17.9h-9.4v22.7H109v-58.3zm12.9 24.7h8.6c4.5 0 9.1-1.6 9.1-7 0-6-6.1-6.8-11-6.8H122v13.8zM189.2 102.6c18.2 0 31.5 11.9 31.5 30.6 0 18.7-13.3 30.6-31.5 30.6s-31.5-11.9-31.5-30.6c.1-18.7 13.3-30.6 31.5-30.6zm0 49.4c11 0 18.1-7.9 18.1-18.8s-7.2-18.8-18.1-18.8c-11 0-18.1 7.9-18.1 18.8s7.2 18.8 18.1 18.8zM229.4 104.1H252c11.9 0 22 4.1 22 17.7 0 8.2-4.4 14.5-12.6 16l14.8 24.6h-15.4l-12.2-23.3h-6.3v23.3h-12.8v-58.3zm12.9 24.1h7.6c4.7 0 10.8-.2 10.8-6.5 0-5.8-5.3-6.8-10-6.8h-8.4v13.3zM294.2 115.4h-16.6V104h46.1v11.4h-16.6v47h-12.9v-47zM359.8 118.3c-2.1-2.6-6.2-3.9-9.3-3.9-3.6 0-8.6 1.6-8.6 6 0 10.6 26.9 3.8 26.9 24.2 0 13-10.5 19.2-22.5 19.2-7.5 0-14.1-2.2-19.6-7.3l9.1-10.1c2.6 3.5 6.9 5.5 11.2 5.5 4.2 0 8.9-2 8.9-6.1 0-10.7-27.4-4.9-27.4-24.4 0-12.4 10.8-18.9 22.2-18.9 6.6 0 12.9 1.7 17.9 6.1l-8.8 9.7z">
+                                            </path>
+                                            <g>
+                                                <path class="st3-mri"
+                                                    d="M374.1 161.4c0 2.7-2.1 4.8-4.9 4.8-2.7 0-4.9-2.1-4.9-4.8 0-2.6 2.2-4.8 4.9-4.8 2.8 0 4.9 2.1 4.9 4.8zm-8.5 0c0 2.1 1.6 3.8 3.7 3.8s3.6-1.7 3.6-3.8c0-2.1-1.5-3.8-3.7-3.8-2.1 0-3.6 1.7-3.6 3.8zm2.9 2.5h-1.1v-4.8c.4-.1 1-.1 1.8-.1.9 0 1.3.1 1.7.3.3.2.5.6.5 1 0 .5-.4.9-1 1.1v.1c.5.2.7.5.9 1.2.1.7.2 1 .3 1.2h-1.2c-.1-.2-.2-.6-.4-1.2-.1-.5-.4-.8-1-.8h-.5v2zm0-2.7h.5c.6 0 1.1-.2 1.1-.7 0-.4-.3-.7-1-.7-.3 0-.5 0-.6.1v1.3z">
+                                                </path>
+                                            </g>
+                                            <g>
+                                                <path class="st2-mri" d="M350.5 90.5V4.4h10.4v86.1h-10.4z"></path>
+                                            </g>
+                                            <g>
+                                                <path class="st4-mri" d="M330.3 90.5V23.8h10.4v66.7h-10.4z"></path>
+                                            </g>
+                                            <g>
+                                                <path class="st4-mri" d="M289.9 90.5V23.8h10.4v66.7h-10.4z"></path>
+                                            </g>
+                                            <g>
+                                                <path class="st2-mri" d="M269.7 90.5V4.4h10.4v86.1h-10.4z"></path>
+                                            </g>
+                                            <path class="st5-mri" d="M-21 55.4H1.2v19.1H-21z"></path>
+                                            <path class="st5-mri" d="M1 3.5h183.8v77.4H1z"></path>
+                                            <path class="st0-mri"
+                                                d="M368.7 137.1h6.1v18.7h-6.1zM-5.1 137.1H1v18.7h-6.1z">
+                                            </path>
+                                        </g>
+                                    </svg>
+                                    <p style="">Transparent, independent, and trusted. Music Reports has
+                                        pioneered music rights administration for 20 years</p>
+
+                                </div>
+                                <div class="kard-footer">
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="hidden kard-deck kard-deck-103 kard-deck-103-b">
+                            <div class="kard">
+                                <div class="hidden kard-header">
+
+                                </div>
+                                <div class="kard-body">
+
+                                </div>
+                            </div>
+                            <div class="hidden kard-footer">
+                            </div>
+                        </div>
+                        <div class="kard-deck kard-deck-103 kard-deck-103-c">
+                            <div class="kard">
+                                <div class="hidden kard-header">
+                                </div>
+                                <div class="kard-body">
+                                    <ul class="ul-1">
+                                        <li class="bold">
+                                            <a href="">PRODUCTS</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.songdex.com">SONGDEX</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.cuetrak.com">CUETRAK</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="ul-2">
+                                        <li class="bold">
+                                            <a href="press/">PRESS</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="ul-3">
+                                        <li class="bold">
+                                            <a href="contact/">CONTACT</a>
+                                        </li>
+                                        <li>
+                                            <a href="mailto:shareinfo@musicreports.com">shareinfo@musicreports.com</a>
+                                        </li>
+                                        <li>
+                                            <!-- <span>818.558.1400</span> -->
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="hidden kard-footer">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kard-footer">
+                        <p>
+                            <span>® / TM / © 2020 Music Reports, Inc.</span><span>|</span><span>All Rights
+                                Reserved</span><span>|</span><a href="terms/">Terms of Service</a><span>|</span><a
+                                href="privacy/">Privacy Policy</a><span>|</span><a href="sitemap/">Sitemap</a>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <section id="section-8" class="section sec-8">
+        <div class="section-inner">
+            <div class="kard-deck kard-deck-101 kard-deck-101-a">
+                <div class="kard">
+                    <div class="kard-header">
+                        <div class="k-header-insert-cookie-banner k-header-insert k-header-insert-a">
+                        </div>
+                    </div>
+                    <div class="kard-body">
+                        <div class="k-body-insert-cookie-banner k-body-insert">
+                            <p>By continuing to browse this site, you accept the use of cookies. For more details about
+                                how we use cookies, please read our <a href="privacy"
+                                    style="float:none;">Privacy Policy</a>.</p>
+                            <a class="btn btn-outline-white" href="#" role="button" onclick="mriCookies();">OK</a>
+                        </div>
+                    </div>
+                    <div class="kard-footer">
+                        <div class="k-footer-insert">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="page-footer hidden">
+        <div class="pg-footer-inner">
+            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chat-left-dots-fill" fill="currentColor"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd"
+                    d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4.414a1 1 0 0 0-.707.293L.854 15.146A.5.5 0 0 1 0 14.793V2zm5 4a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />
+            </svg>
+        </div>
+        <div class="hidden copyright-footer">
+            <p><span>® / TM / © 2020 Music Reports, Inc.</span><span>|</span><span>All Rights
+                    Reserved</span><span>|</span><a href="terms/"> Terms of Service</a><span>|</span><a
+                    href="privacy/">Privacy
+                    Policy</a><span>|</span><a href="sitemap/">Sitemap</a></p>
+        </div>
+    </footer>
+    <div class="talk-bubble">
+        <div class="insert-101 insert-101-a">
+            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chat-left-dots-fill" fill="currentColor"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd"
+                    d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4.414a1 1 0 0 0-.707.293L.854 15.146A.5.5 0 0 1 0 14.793V2zm5 4a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />
+            </svg>
+        </div>
+    </div>
+</body>
+
+</html>
